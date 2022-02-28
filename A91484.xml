@@ -1,0 +1,1219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choice catalogue of the library of John Parsons, Esquire, late of the Middle-Temple, barrister: Consisting chiefly of law &amp; history, ancient and modern. : Which will be exposed to sale by way of auction on Thursday the 30th day of this instant November, 1682. at the Auction-House, over against the Black Swan in Ave-Mary-Lane near Ludgate. / By Edward Millington, bookseller.</title>
+            <author>Parsons, John, Esquire.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91484</idno>
+            <idno type="STC">Wing P560</idno>
+            <idno type="STC">ESTC R228132</idno>
+            <idno type="EEBO-CITATION">45097885</idno>
+            <idno type="OCLC">ocm 45097885</idno>
+            <idno type="VID">171464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choice catalogue of the library of John Parsons, Esquire, late of the Middle-Temple, barrister: Consisting chiefly of law &amp; history, ancient and modern. : Which will be exposed to sale by way of auction on Thursday the 30th day of this instant November, 1682. at the Auction-House, over against the Black Swan in Ave-Mary-Lane near Ludgate. / By Edward Millington, bookseller.</title>
+                  <author>Parsons, John, Esquire.</author>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed gratis at the Rainbow Coffee-house, and at Richard's Coffee-house in Fleetstreet near Temple-bar, at John's Coffee-house ... at the Coffee-house over against Lincolns-inn ... at Bridges Coffee-house ... at Mr. Colliers at the Bible on London-Bridge, at Edward Millington's ... and at the above-mentioned Auction-house in Ave-Mary-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parsons, John, --  Esquire --  Library --  Catalogs.</term>
+               <term>Millington, Edward, d. 1703 --  Catalogs.</term>
+               <term>Catalogs, Booksellers' --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171464:1" rendition="simple:additions"/>
+            <pb facs="tcp:171464:1" rendition="simple:additions"/>
+            <p>A CHOICE CATALOGUE OF THE LIBRARY OF <hi>JOHN PARSONS,</hi> Eſquire, Late of the <hi>Middle-Temple,</hi> Barriſter: Conſiſting Chiefly of Law &amp; Hiſtory, Ancient and Modern.</p>
+            <p>Which will be expoſed to Sale by way of <hi>A<g ref="char:V">Ʋ</g>CTION</hi> on <hi>Thurſday</hi> the 30th day of this Inſtant <hi>November,</hi> 1682. at the Auction-Houſe, over againſt the <hi>Black Swan</hi> in <hi>Ave-Mary-Lane</hi> near <hi>Ludgate.</hi>
+            </p>
+            <p>By <hi>Edward Millington,</hi> Bookſeller.</p>
+            <p>Catalogues are diſtributed <hi>Gratis</hi> at the <hi>Rainbow</hi> Coffee-houſe, and at <hi>Richard</hi>'s Coffee-houſe in <hi>Fleetſtreet</hi> near <hi>Temple-bar,</hi> at <hi>John</hi>'s Coffee-houſe in <hi>Fullers-Rents,</hi> near <hi>Grays-Inn,</hi> at the Coffee-houſe over againſt <hi>Lincolns-Inn</hi> in <hi>Chancery-Lane,</hi> at <hi>Bridges</hi> Coffee-houſe in <hi>Popes-Head-Alley</hi> over againſt the <hi>Royal-Exchange</hi> in <hi>Cornhill,</hi> at Mr. <hi>Colliers</hi> at the Bible on <hi>London-Bridge,</hi> at <hi>Edward Millington</hi>'s at the Bible in <hi>Little-Britain,</hi> and at the above-mentioned Auction-houſe in <hi>Ave-Mary-Lane</hi>
+            </p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:171464:2" rendition="simple:additions"/>
+            <pb facs="tcp:171464:2"/>
+            <head>The Conditions of the <hi>Sale</hi> are theſe:</head>
+            <p n="1">
+               <hi>I.</hi> THat he who bids moſt, is the Buyer; and if any difference ariſe, the ſame Book or Books to be again expoſed to Sale.</p>
+            <p n="2">
+               <hi>II.</hi> That the Books in this Catalogue, (not otherwiſe expreſſed) are for ought I know, perfect; but if any of them appear to be otherwiſe (before they be taken a<g ref="char:EOLhyphen"/>way,) the Buyer ſhall have his choice, whether he will leave or take the ſame.</p>
+            <p n="3">
+               <hi>III.</hi> That the Money for the Book or Books ſo Bought, is to be paid by the Buyer within three weeks after the Auction is ended, at the place of Sale, where upon Payment thereof the Book or Books ſhall be ready to be delivered within the time aforeſaid.</p>
+            <p>
+               <hi>For Satisfaction of the Buyers, as to the Condi<g ref="char:EOLhyphen"/>tion of the Books, they will be expoſed to View at the Place above-mentioned, every day for a week before the Sale begins.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>November <hi>20. 1682.</hi>
+                  </date>
+               </dateline>
+               <signed>EDWARD MILLINGTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <pb facs="tcp:171464:3"/>
+            <pb n="1" facs="tcp:171464:3"/>
+            <div type="book_type">
+               <head>Law Books in <hi>Folio.</hi>
+               </head>
+               <list>
+                  <item>1 <hi>P<g ref="char:V">Ʋ</g>lton</hi>'s Statutes with Manby's Continuation, in 2 Vol. 1661</item>
+                  <item>2 <hi>Roll</hi>'s Abridgement, in 2 Vol 1668</item>
+                  <item>3 <hi>Raſtall</hi>'s Entries. 1574</item>
+                  <item>4 <hi>Townſend</hi>'s Tables. 1667</item>
+                  <item>5 <hi>Cook</hi>'s Reports in Engliſh with the 12th. Part. 1658</item>
+                  <item>6 — Declarations and Pleadings in Engliſh. 1659</item>
+                  <item>7 —Reports in French, 11 parts in 5. vol.</item>
+                  <item>8 Regiſter of Writs, laſt Edition. 1634</item>
+                  <item>9 <hi>Cook</hi>'s Select Law Caſes, being his 13. part. 1659</item>
+                  <item>10 <hi>Bulſtrod</hi>'s Reports, compleat. 1657</item>
+                  <item>11 Common Place-book of the Common Law fairly written.</item>
+                  <item>12 <hi>Wingate</hi>'s Maxims of the Law. 1658</item>
+                  <item>13 <hi>Leonard</hi>'s Reports Compleat in 2 vol. 1658</item>
+                  <item>14 <hi>Yelverton</hi>'s Reports. 1661</item>
+                  <item>15 <hi>Cowell</hi>'s Interpreter. 1658</item>
+                  <item>16 <hi>Crook</hi>'s Reports, in 3 vol.</item>
+                  <item>17 <hi>Owen</hi>'s Reports. 1650</item>
+                  <item>18 <hi>Dalton</hi>'s Office of a Juſtice of Peace. 1666</item>
+                  <item>19 <hi>Bendlow</hi>'s Reports. 1661</item>
+                  <item>20 <hi>Plowden</hi>'s Reports, both parts with the Tables. 1613</item>
+                  <item>21 <hi>Raſtall</hi>'s Abridgment of Statutes from Magna Charta to 7 <hi>Jacobi.</hi> 1621</item>
+                  <item>22 <hi>Hubbart</hi>'s Reports. 1658</item>
+                  <item>23 <hi>Keilwey</hi>'s Reports. 1633</item>
+                  <item>24 <hi>Cook</hi>'s Inſtitutes, 4 parts in 3 vol. 1639, <hi>&amp;c.</hi>
+                  </item>
+                  <item>25 <hi>Dyer</hi>'s Reports, with the Table.</item>
+                  <item>26 <hi>Cook</hi>'s Entries. 1614</item>
+                  <item>27 <hi>Keeble</hi>'s Collection of Statutes. 1676</item>
+                  <item>28 Theſaurus Brevium. 1661</item>
+                  <item>28 Brevia Judicialia. 1662</item>
+                  <item>29 <hi>Sheppard</hi>'s Actions upon the Caſe for Slander. 1662</item>
+                  <item>29 —Actions upon the Caſe for Deeds. 1663</item>
+                  <item>30 <hi>Statham</hi>'s Abridgment, Liber Antiquiſſimus</item>
+                  <item>31 <hi>Bolton</hi>'s Juſtice of Peace for Ireland. 1638</item>
+                  <item>32 The Petition and Advice preſented to the Lord Protector by the Parliament, begun at <hi>Weſtminſter,</hi> 1656. together with all the Acts of that Parliament. 1657</item>
+                  <item>33 <hi>Anderſon</hi>'s Reports 1664</item>
+                  <item>34 <hi>Winch</hi>'s Book of Entries. 1680</item>
+                  <item>35 Judge <hi>Jone</hi>'s Reports. 1675</item>
+                  <item>36 Judge <hi>Vaughan</hi>'s Reports. 1677</item>
+                  <item>37 <hi>Roll</hi>'s Reports in 2 vol. 1675</item>
+                  <item>38 Sir <hi>John Davis</hi>'s Reports. 1674</item>
+                  <item>39 <hi>Dalton</hi>'s Office of Sheriffs. 1682</item>
+                  <item>
+                     <pb n="2" facs="tcp:171464:4"/>40 <hi>Sheppard</hi>'s Law of Common Aſſurances. 1669</item>
+                  <item>41 Liber Placitandi, Mr. <hi>Thompſon</hi>'s Book of Entries. 1674</item>
+                  <item>42 <hi>Blounts</hi> Law Dictionary. 1670</item>
+                  <item>43 <hi>Style</hi>'s Reports. 1658</item>
+                  <item>44 Officina Brevium, or Select Entries in the Court of Common Pleas. 1679</item>
+                  <item>45 <hi>Cawley's</hi> Laws againſt Recuſants Explained, by the Judgments and Reſolutions of the Judges. 1680</item>
+                  <item>46 Year-books laſt Edit. in 5. vol. 1679</item>
+                  <item>47 <hi>Brown</hi>'s Book of Entries, both parts in one vol. 1675</item>
+                  <item>48 Suarez de Legibus omnibus. 1679</item>
+                  <item>49 Linwood Conſtitut. Anglican. item Otho &amp; Othobon. 1679</item>
+                  <item>50 <hi>Townſend</hi>'s Collection of 4 Parliamentary Proceedings in Q. <hi>Elizab.</hi> time. 1679</item>
+                  <item>51 Book of Precedents with ſeveral Notes and Obſervations, Manuſcript.</item>
+                  <item>52 <hi>Dugdale</hi>'s Origines Juridiciales. 1680</item>
+                  <item>53 Modern Reports in the Reign of K. <hi>Charles</hi> Second. 1682</item>
+                  <item>54 <hi>Latche</hi>'s Reports. 1661</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Law Books in <hi>Quarto.</hi>
+               </head>
+               <list>
+                  <item>1 <hi>GRegory</hi>'s Moot Book in Engliſh. 1663</item>
+                  <item>2 <hi>Swinburn</hi> of Wills and Teſtaments. 1640</item>
+                  <item>3 <hi>Sheppards</hi> Touchſtone of Aſſurances. 1651</item>
+                  <item>4 Placita Latine Redeviva, by <hi>Aſton.</hi> 1661</item>
+                  <item>5 <hi>Weſt</hi>'s Precedents both parts. 1610</item>
+                  <item>6 <hi>Hugh</hi>'s Abridgment, 3 vol.</item>
+                  <item>7 Compleat Clerk. 1655</item>
+                  <item>8 <hi>Husband</hi>'s Collections of Votes, Orders, Remonſtrances, <hi>&amp;c.</hi> 1643</item>
+                  <item>9 <hi>Woman</hi>'s Lawyer. 1632</item>
+                  <item>10 Sir <hi>Francis Bacon</hi>'s Elements of the Law. 1639</item>
+                  <item>11 Perfect Conveyancer. 1655</item>
+                  <item>12 <hi>Standford</hi>'s Pleas of the Crown. 160<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>13 <hi>Cook</hi>'s Compleat Copyholder. 1641</item>
+                  <item>14 <hi>Crumpton</hi>'s Juriſdiction of Courts. 1637</item>
+                  <item>15 <hi>Godolphins</hi> Abridgment of Eccleſiaſtical Laws. 1680</item>
+                  <item>16 <hi>Brownlow</hi>'s Reports. 1675</item>
+                  <item>17 <hi>Selden</hi>'s Hiſtory of Tythes. 1618</item>
+                  <item>18 <hi>Cumber</hi>'s Hiſtory of Tythes againſt <hi>Selden.</hi>
+                  </item>
+                  <item>19 <hi>Goldsbrough</hi>'s Reports. 1682</item>
+                  <item>20 <hi>Sheppard</hi>'s Grand Abridgment of the Law in 3 vol.</item>
+                  <item>21 <hi>Standford</hi>'s Pleas of the Crown wanting the Title. 1574</item>
+                  <item>21 — Expoſition of the K. Prerogative wanting the latter end. 1577</item>
+                  <item>22 <hi>Sadler</hi>'s Rights of the Kingdom or Cuſtoms of our Anceſtors. 1682</item>
+                  <item>23 <hi>Brook</hi>'s Abridgment. 1558</item>
+                  <item>24 <hi>Fitzherbert</hi>'s Abridgment with a Table. 1577</item>
+                  <item>25 Fleta cum Commentariis <hi>Seldeni.</hi> 1647</item>
+                  <item>26 <hi>Powell</hi>'s Attornies Academy. 1623</item>
+                  <item>27 <hi>Pulton</hi>'s Abſtract of all the Penal Statutes in force. 1577</item>
+                  <item>28 An Abſtract of certain Acts of Parliament, Injunctions, Canons, Conſtitutions and Synodals, Eſtabliſhed; and in force for the peaceable Government of the Church in Q. <hi>Elizabeths</hi> Dominions, together with an Anſwer. 1584</item>
+                  <item>
+                     <pb n="3" facs="tcp:171464:4"/>29 <hi>Marche</hi>'s Reports. 1675</item>
+                  <item>30 <hi>Fitszherbert</hi>'s Office of a Juſtice of Peace. 1584</item>
+                  <item>31 <hi>Sumner</hi>'s Treatiſe of Gavelkind. 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</item>
+                  <item>32 <hi>Prynn</hi>'s Sovereign Power of Parliaments, all 4 parts; with Popiſh Royal Favo<g ref="char:EOLhyphen"/>rite, <hi>Romes</hi> Maſterpiece, New Plea for the Parliament, and ſeveral other Tracts.</item>
+                  <item>33 The Kings Declaration to both Houſes, with ſeveral other Papers. 1641, 1642</item>
+                  <item>33 The Engliſh Hermite or the Life of Roger Crab.</item>
+                  <item>33 Relation between the Lord of the Mannor, and the Copyholder.</item>
+                  <item>33 Sir <hi>Francis Bacon</hi>'s Charge concerning Duels.</item>
+                  <item>33 Englands Common-wealth, ſhewing the Liberty of the People, <hi>&amp;c.</hi>
+                  </item>
+                  <item>33 Perſwaſive to Compliance, under the preſent Government; with a Plea for a Free State compared with Monarchy. 1652</item>
+                  <item>33 Vindication of the Common wealth of <hi>England,</hi> againſt <hi>Salmaſius</hi> and others, with divers other Tracts in the ſame Volum.</item>
+                  <item>34 <hi>Prynn</hi>'s Legal Reſolution of 2 Queries, concerning the Duty of Miniſters and Vicars of Pariſh Churches.</item>
+                  <item>35 Sir <hi>Walter Raleigh</hi>'s Prerogative of Parliaments in <hi>England.</hi>
+                  </item>
+                  <item>35 —<hi>Holbourn</hi>'s Reading on the Statute 25 of <hi>Edw.</hi> 3. about Treaſons. 1642</item>
+                  <item>35 —Aphoriſms of the Kingdom with ſeveral other Pamphlets about that time.</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Law Books in <hi>Octavo.</hi>
+               </head>
+               <list>
+                  <item>1 AUthority of all Juſtices of the Peace. 1580</item>
+                  <item>2 Attornies Guide. 1656</item>
+                  <item>3 <hi>Aſhe</hi>'s General Table to <hi>Cook</hi>'s Reports in French. 1631</item>
+                  <item>4 Ancient Right of the Commons of <hi>England,</hi> Aſſerted by <hi>W. Petyt.</hi> 1680</item>
+                  <item>5 Abridgment of <hi>Cook</hi> upon <hi>Littleton.</hi> 1651</item>
+                  <item>6 <hi>Aſhe</hi>'s Tables to the Statutes of Equity, with the Reports of <hi>Dalliſon</hi> and <hi>Bendlows.</hi> 1609</item>
+                  <item>7 Actions upon the Caſe for Slander. 1674</item>
+                  <item>8 <hi>Bridall's</hi> Abridgment of the Laws of <hi>England,</hi> touching Capital Offences. 1679</item>
+                  <item>9 <hi>Babington</hi>'s advice to Grand Jurors in Caſes of Blood. 1680</item>
+                  <item>10 Body of the Common Law by <hi>Wingate.</hi> 1678</item>
+                  <item>11 <hi>Britton</hi> de Legibus Angliae, old Edit. in <hi>Hen.</hi> 8th. time.</item>
+                  <item>12 <hi>Brown</hi>'s Entring Clerk's Vade mecum. 1678</item>
+                  <item>13 <hi>Brook</hi>'s New Caſes in the times of <hi>Hen.</hi> 8th. <hi>Ed.</hi> 6th. and Q. <hi>Mary,</hi> Engliſh. 1651</item>
+                  <item>14 Common Law Epitomized. 1679</item>
+                  <item>15 <hi>Crook</hi>'s Abridgment. 1658</item>
+                  <item>16 <hi>Cook</hi>'s Compleat Copyholder. 1673</item>
+                  <item>17 Compleat Solicitor. 1668</item>
+                  <item>18 Conſtitution of Parliaments in <hi>England,</hi> by Sir <hi>John Pettus.</hi> 1680</item>
+                  <item>19 <hi>Calthroop</hi>'s Reports. 1670</item>
+                  <item>20 <hi>Caries</hi> Reports in Chancery. 1650</item>
+                  <item>21 Clerks Guide in 3 parts. 1659</item>
+                  <item>22 Compleat Attorney. 1658</item>
+                  <item>23 Clerks Vade mecum. 1655</item>
+                  <item>24 Compendious Treatiſe of Fines and Recoveries. 1678</item>
+                  <item>25 Clerks Manual or Forms of Pleas, Declarations, <hi>&amp;c.</hi> 1678</item>
+                  <item>26 Compleat Juſtice Inlarged. 1681</item>
+                  <item>27 Collection of Debates of Parliament, 1680. 1681</item>
+                  <item>
+                     <pb n="4" facs="tcp:171464:5"/>28 Clerks Praxis Admiralitatis Curiae. 1679</item>
+                  <item>29 <hi>Cary</hi>'s Guide to Perſons concerned in Eccleſiaſtical Courts.</item>
+                  <item>30 <hi>Dyer</hi>'s Abridgment. 1609</item>
+                  <item>31 Sr. <hi>John Davis</hi>'s Abridgment of <hi>Cooks</hi> 11 Reports in Engliſh. 1651</item>
+                  <item>32 Directions for the ſtudy of the Law, by <hi>Philips.</hi> 1675</item>
+                  <item>33 <hi>Degg</hi>'s Parſons Councellor. 1681</item>
+                  <item>34 Dialogue betwixt Doctor and Student. 1673</item>
+                  <item>35 Exact Conſtable. 1682</item>
+                  <item>36 <hi>Fitzherbert</hi>'s Natura Brevium, French. 1635</item>
+                  <item>37 —Idem, by <hi>Tothill.</hi> 1567</item>
+                  <item>38 —Idem Engliſh. 1652</item>
+                  <item>39 <hi>Einch</hi>'s Law in Engliſh. 1636</item>
+                  <item>40 Forteſcue de Laudibus Legum Angliae, with <hi>Seldens</hi> Notes. 1660</item>
+                  <item>41 <hi>Fulwoods</hi> Lawfulneſs of Eccleſiaſtical Juriſdiction in the Church of <hi>England.</hi> 1681</item>
+                  <item>42 <hi>Filacer</hi>'s Office.</item>
+                  <item>43 Grotius de Jure Belli &amp; pacis cum Annotat. Authoris. 1660</item>
+                  <item>44 —Idem in Engliſh. 1655</item>
+                  <item>45 <hi>Gliſſons</hi> Epitome of the Common Law. 1679</item>
+                  <item>46 <hi>Greenwood</hi> of Country Judicatures. 1675</item>
+                  <item>47 Guide to Conſtables. 1679</item>
+                  <item>48 Glanvill de Legibus Angliae. 1604</item>
+                  <item>49 <hi>Grimſtone</hi>'s Orders in Chancery. 1661</item>
+                  <item>50 <hi>Hunt</hi>'s Argument for Biſhops Right in Judging Capital Cauſes in Parliament. 1682</item>
+                  <item>51 <hi>Hale</hi>'s Pleas of the Crown. 1682</item>
+                  <item>52 Hiſtorical Collections of the proceeding of laſt Parliament. 1682</item>
+                  <item>53 <hi>Hugh</hi>'s Parſons Law. 1663</item>
+                  <item>54 <hi>Herne</hi>'s Law of Conveyances. 1658</item>
+                  <item>55 <hi>Hugh</hi>'s Abridgment of <hi>Moores</hi> Reports. 1665</item>
+                  <item>56 —his Abridgment of <hi>Crooks</hi> 3 vol. of Reports, in 2 parts. 1665</item>
+                  <item>57 <hi>Hackwell</hi> of paſſing Bills in Parliament. 1671</item>
+                  <item>58 Lord <hi>Hollis</hi>'s Grand Queſtion concerning the Judicature of the Houſe of Peers in <hi>Skinners</hi> Caſe. 1669</item>
+                  <item>59 —Juriſdiction of the Houſe of Lords in point of Impoſitions. 1676</item>
+                  <item>60 —Juriſdiction of the Houſe of Peers in point of Appeals. 1675</item>
+                  <item>61 —Remains about Biſhops Judicature in Parliament. 1682</item>
+                  <item>62 <hi>Ireland</hi>'s Abridgment of <hi>Cook's</hi> Reports. 1650</item>
+                  <item>63 The Works of <hi>John Jones</hi> in 6 Treatiſes referring to Reformation of the Laws of <hi>England.</hi> 1650</item>
+                  <item>64 Juſtice of Peace his Clerks Cabinet. 1654</item>
+                  <item>65 Juſtice Reſtored, a Guide to Juſtices. 1671</item>
+                  <item>66 Journal of the Houſe of Commons. 1678</item>
+                  <item>67 Judges Reſolutions upon the Statutes concerning Bankrupts. 1676</item>
+                  <item>68 <hi>Kitchin</hi> of Courts in Engliſh. 1657</item>
+                  <item>69 —Idem in French. 1587</item>
+                  <item>70 <hi>Lambard</hi>'s Duty of Conſtables, Tything-men, <hi>&amp;c.</hi> 1677</item>
+                  <item>71 Landlords Law. 1668</item>
+                  <item>72 <hi>Leigh</hi>'s Commentary of Law Terms. 1658</item>
+                  <item>73 <hi>Littleton</hi>'s Tenures, French and Engliſh. 1671</item>
+                  <item>74 <hi>Lambard</hi>'s Diſcourſe on the High Courts of Juſtice in <hi>England.</hi> 1675</item>
+                  <item>75 <hi>March's</hi> Actions of Slander. 1655</item>
+                  <item>76 <hi>Merriton</hi> of Wills and Teſtaments. 1668</item>
+                  <item>77 —Landlords Law. 1681</item>
+                  <item>78 —<hi>Parſon</hi>'s Monitor 1681</item>
+                  <item>
+                     <pb n="5" facs="tcp:171464:5"/>79 <hi>Noy</hi>'s Compleat Lawyer. 1651</item>
+                  <item>80 — Maxims of Law. 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>81 New Book of Inſtruments for Attornies, <hi>&amp;c.</hi> 1680</item>
+                  <item>82 Office and Duty of Executors. 1676</item>
+                  <item>83 Office of the Clerk of the Market. 1665</item>
+                  <item>84 <hi>Petyt</hi>'s Rights of the Commons of <hi>England.</hi> 1680</item>
+                  <item>85 <hi>Plowden</hi>'s Abridgment in French. 1607</item>
+                  <item>86 — Idem, in Engliſh. 1650</item>
+                  <item>87 Parſon's Law 1641</item>
+                  <item>88 <hi>Plowden</hi>'s Quaeries. 1662</item>
+                  <item>89 <hi>Perkin</hi>'s of the Law in Engliſh. 1642</item>
+                  <item>90 <hi>Philips</hi> Directions for the ſtudy of the Law. 1662</item>
+                  <item>91 Sir <hi>John Pettus</hi>'s Conſtitution of Engliſh Parliaments—. 1680</item>
+                  <item>92 Practick Part of the Law, ſhewing the Office of an Attorney and Solicitor. 1676</item>
+                  <item>93 Practice of the High Court of Chancery. 1672</item>
+                  <item>94 Practica Walliae, or proceeding of the Great Seſſions in <hi>Wales.</hi> 1672</item>
+                  <item>95 Practick Part of the Office of a Juſtice of Peace. 1682</item>
+                  <item>96 Practice of the Exchequer Court. 1658</item>
+                  <item>97 Preparative to Pleading, by <hi>Townſend.</hi> 1675</item>
+                  <item>98 <hi>Ridley</hi>'s View of the Civil, and Eccleſiaſtical Law. 1676</item>
+                  <item>99 Several Antient Tracts Intituled Juſtice of Peace, Court Baron, Court Leet, Court Hundred, <hi>Returna Brevium, Carta Feodi,</hi> &amp;c. 1544</item>
+                  <item>100 Statuta Pacis. 1654</item>
+                  <item>101 <hi>Sheppard</hi>'s Propoſals, for Regulation of the Law. 1657</item>
+                  <item>102 <hi>Survey</hi> of the Common Law, by <hi>Gliſſon</hi> and <hi>Gulſton.</hi>
+                  </item>
+                  <item>103 <hi>Selden</hi> of the Judicature in Parliaments. 1681</item>
+                  <item>104 <hi>Style</hi>'s Practical Regiſter. 1657</item>
+                  <item>105 The Solicitor. 1663</item>
+                  <item>106 <hi>Selden</hi>'s Priviledge of Baronage. 1642</item>
+                  <item>107 <hi>Sheppard</hi>'s Court-keepers Guide. 1662</item>
+                  <item>108 Statutes of Bankrupt, with the Reſolutions of the Judges. 1670</item>
+                  <item>109 <hi>Sheppard</hi>'s Actions on the Caſe for Deeds. 1675</item>
+                  <item>110 —Actions on the Caſe for Slander. 1674</item>
+                  <item>111 —Office of a Juſtice of Peace. 1652</item>
+                  <item>112 Statuta vetera &amp; recentiora. 1672</item>
+                  <item>113 <hi>Sheppard</hi>'s Office of the Clerk of the Market. 1665</item>
+                  <item>114 Several Antient Statutes collected by order of K <hi>Hon.</hi> 8th. and commanded to be put in Execution under pain of his high Diſpleaſure. 1538</item>
+                  <item>115 Terms of the Law. 1641</item>
+                  <item>116 Table to <hi>Dyer</hi>'s Reports. 1622</item>
+                  <item>117 <hi>Tothill</hi>'s Tranſactions in Chancery. 1649</item>
+                  <item>118 <hi>Trotman</hi>'s Abridgment of <hi>Cook</hi>'s Reports. 1640</item>
+                  <item>119 The Tryal of the Regicides in 1660. 1679</item>
+                  <item>120 Touchſtone of Precedents, relating to Judicial Proceedings at Common Law. 1682</item>
+                  <item>121 <hi>Townſend</hi>'s Preparative to Pleading. 1675</item>
+                  <item>122 Tryals per Pais, or the Law concerning Juries by <hi>Niſi Prius, &amp;c.</hi> 1665</item>
+                  <item>123 Tenants Law. 1674</item>
+                  <item>124 <hi>Vaughan</hi>'s Practica Walliae. 1672</item>
+                  <item>125 <hi>Wingate</hi>'s Abridgment of Statutes. 1666</item>
+                  <item>126 <hi>Wilkinſon</hi>'s Office of Sheriffs. 1675</item>
+                  <item>127 <hi>Wingate</hi>'s Body of Common Law. 1678</item>
+                  <item>128 <hi>Young</hi>'s Vade mecum of the Statutes. 1653</item>
+                  <item>129 Young Clerks Tutor. 1663</item>
+                  <item>130 Young Clerks Guide, in 4 parts. 1682</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <pb n="6" facs="tcp:171464:6"/>
+               <head>An Appendix to the Law Catalogue in <hi>Folio.</hi>
+               </head>
+               <list>
+                  <item>1 COmmon-Place Book of the Common Law, fairly written.</item>
+                  <item>2 <hi>Yelverton</hi>'s Reports. 1674</item>
+                  <item>3 <hi>Dalton</hi>'s Juſtice of Peace. 1666</item>
+                  <item>4 <hi>Hubbart</hi>'s Reports. 1678</item>
+                  <item>5 <hi>Cook</hi>'s Reports in French, Compleat in 1 vol. 1672</item>
+                  <item>6 <hi>Poulton</hi>'s Statutes, with <hi>Manby</hi>'s Continuation, in 2 vol. 1661. 1667</item>
+                  <item>7 <hi>Cook</hi>'s Reports in Engliſh. 1680</item>
+                  <item>8 <hi>Winche</hi>'s Book of Entries. 1680</item>
+                  <item>9 Judge <hi>Jone</hi>'s Reports. 1680</item>
+                  <item>10 Sir <hi>John Davies</hi>'s Reports. 1674</item>
+                  <item>11 <hi>Dalton</hi>'s Office of Sheriffs. 1682</item>
+                  <item>12 Liber Placitandi, Mr. <hi>Thompſon</hi>'s Book-Entries. 1674</item>
+                  <item>13 <hi>Latche</hi>'s Reports. 1661</item>
+                  <item>14 <hi>Raſtall</hi>'s Entries. 1670</item>
+                  <item>15 Officina Brevium, Select Entries in the Court of Common Pleas. 1679</item>
+                  <item>16 <hi>Cawley</hi>'s Laws againſt Recuſants explained, by the Judgments and Reſolutions of the Judges. 1680</item>
+                  <item>17 <hi>Roll</hi>'s Reports, in 2 vol. 1675</item>
+                  <item>18 <hi>Suarez</hi> de Legibus omnibus. 1679</item>
+                  <item>19 <hi>Linwood</hi>'s Conſtitutiones Anglicanae, item Otho &amp; Othobon. 1679</item>
+                  <item>20 <hi>Cooke</hi>'s Inſtitutes, in 3 vol. Fol. 1670 &amp; 80.</item>
+                  <item>21 <hi>Dugdale</hi>'s Origines Juridiciales. 1680</item>
+                  <item>22 Modern Reports in the Reign of K. <hi>Charles</hi> 2. 1682</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Law Books in <hi>Quarto.</hi>
+               </head>
+               <list>
+                  <item>23 <hi>WErt</hi>'s Precedents both parts. 1597</item>
+                  <item>24 <hi>Swinburn</hi> of Wills and Teſtaments. 1677</item>
+                  <item>25 Pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cita Latine redeviva, by <hi>Aſton.</hi> 1673</item>
+                  <item>26 <hi>Godolphin</hi>'s Abridgment of Eccleſiaſtical Laws. 1680</item>
+                  <item>27 Compleat Clerk. 1677</item>
+                  <item>28 <hi>Sadler</hi>'s Rights of the Kingdom, or Cuſtomes of our Anceſtors. 1682</item>
+                  <item>29 <hi>Marche</hi>'s Reports. 1675</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Law Books in <hi>Octavo.</hi>
+               </head>
+               <list>
+                  <item>30 ANtient Right of the Commons aſſerted, by <hi>W. Petyt.</hi> 1680</item>
+                  <item>31 <hi>Brydall</hi>'s Abridgment of the Laws of <hi>England,</hi> touching Capital Offences. 1679</item>
+                  <item>32 <hi>Babington</hi>'s Advice to Grand Jurors in Caſes of Blood. 1680</item>
+                  <item>
+                     <pb n="7" facs="tcp:171464:6"/>33 <hi>Brown</hi>'s Entring Clerk's Vade mecum. 1678</item>
+                  <item>34 <hi>Cook</hi>'s Compleat Coppy-holder. 1673</item>
+                  <item>35 Compendious Treatiſe of Fines and Recoveries. 1678</item>
+                  <item>36 Clerk's Manual, Forms of Pleas, Declarations, <hi>&amp;c.</hi> 1678</item>
+                  <item>37 Collection of Debates of Parliament. 1680. 1681</item>
+                  <item>38 Clerk's Praxis Admiralitatis Curiae. 1679</item>
+                  <item>39 <hi>Cary</hi>'s Guide to perſons concerned in Eccleſiaſtical Courts</item>
+                  <item>40 <hi>Degg</hi>'s Parſons Councellor. 1681</item>
+                  <item>41 Exact Conſtable. 1682</item>
+                  <item>42 <hi>Forteſcue</hi>'s de laudibus Legum Angliae, with <hi>Seldens</hi> Notes. 1672</item>
+                  <item>43 <hi>Hunt</hi>'s Argument for Biſhops Right in judging Capital Cauſes in Parliament. 1682</item>
+                  <item>44 Lord <hi>Hollis</hi> Grand Queſtion concerning the Judicature of the Houſe of Peers, in <hi>Skinners</hi> Caſe. 1669</item>
+                  <item>45 —Juriſdiction of the Houſe of Lords, in point of Impoſitions. 1676</item>
+                  <item>46 —Judicature of the Houſe of Peers, in point of Appeals. 1675</item>
+                  <item>47 Judges Reſolutions on the Statutes of Bankrupt. 1676</item>
+                  <item>48 <hi>Kitchin</hi> of Courts, French. 1687</item>
+                  <item>49 <hi>Lambard</hi>'s Duty of Conſtables, Tything-men, <hi>&amp;c.</hi> 1677</item>
+                  <item>50 <hi>Merriton</hi> of Wills and Teſtaments. 1668</item>
+                  <item>51 —Landlords Law. 1681</item>
+                  <item>52 New Book of Inſtruments for Attornies, <hi>&amp;c.</hi> 1680</item>
+                  <item>53 <hi>Philip</hi>'s Directions for the ſtudy of the Law. 1662</item>
+                  <item>54 Practick part of the Law, ſhewing the Office of Attorney and Solicitor. 1676</item>
+                  <item>55 Practice of the High Court of Chancery. 1672</item>
+                  <item>56 <hi>Selden</hi> of the Judicature of Parliament. 1681</item>
+                  <item>57 <hi>Sheppard</hi>'s Court-Keepers Guide. 1662</item>
+                  <item>58 —Actions upon the Caſe for Deeds. 1675</item>
+                  <item>59 <hi>Tothill</hi>'s Tranſactions in Chancery. 1649</item>
+                  <item>60 Tryals of the Regicides, in 1660. 1679</item>
+                  <item>61 Touchſtone of Precedents, relating to judical proceeding at Common Law. 1682</item>
+                  <item>62 Tryals per Pais, or the Law concerning Juries by <hi>Niſi Prius.</hi> 1665</item>
+                  <item>63 Tenants Law. 1674</item>
+                  <item>64 <hi>Wingate</hi>'s Body of Common Law. 1678</item>
+                  <item>65 Young Clerks Tutor. 1668</item>
+                  <item>66 Young Clerks Guide, in 4 Parts. 1682</item>
+                  <item>67 Statuta vetera &amp; recentiora. 1672</item>
+                  <item>68 The Caſe of the Government of <hi>England</hi> Eſtabliſhed by Law. 1681</item>
+                  <item>69 Security of Engliſh mens Lives, by Juries. 1682</item>
+                  <item>70 <hi>De Jure Maritimo &amp; Navali;</hi> a Treatiſe of Affairs Maritime, and of Commerce. 1677</item>
+                  <item>71 Terms of the Law. 1641</item>
+                  <item>72 <hi>Fitzherbert</hi>'s Natura Brevium. 1553</item>
+                  <item>73 Compleat Juſtice. 1636</item>
+                  <item>74 <hi>Baſſett</hi>'s Catalogue of Statute and Common Law Books. 1682</item>
+                  <item>75 <hi>Hugh</hi>'s Parſons Law. 1641</item>
+                  <item>76 <hi>Sheppard</hi>'s Juſtice of Peace his Clerks Cabinet. 1654</item>
+                  <item>77 Attorney of the Court of Common Pleas. 1648</item>
+                  <item>78 <hi>Young</hi>'s Vade mecum, or Table of Statutes. 1663</item>
+                  <item>79 <hi>Brydall</hi>'s Proſpect of the Laws of <hi>England,</hi> concerning the ſafegard of the Kings perſon. 1679</item>
+                  <item>80 The ſeveral Acts about Hearth Money abſtracted. 1668</item>
+                  <item>81 <hi>Wilkinſon</hi>'s Office of Sheriffs. 1641</item>
+                  <item>82 <hi>Sheppard</hi>'s Survey of County Judicatures. 1656</item>
+                  <item>83 <hi>Littleton</hi> and <hi>Perkins</hi> in French (<hi>Littleton</hi> Imperfect.) 1604</item>
+                  <item>
+                     <pb n="8" facs="tcp:171464:7"/>84 Two old Treatiſes concerning the Duties of Conſtables, Tything-men, and the Duties of Sheriffs, <hi>&amp;c.</hi>
+                  </item>
+                  <item>85 Judge <hi>Jenkins</hi>'s <hi>Lex Terrae.</hi> 1648</item>
+                  <item>86 Manual Analecta, or the Compleat Juſtice, Inerleaved with additions in Manuſcript. 1641</item>
+                  <item>87 <hi>Jone</hi>'s Judges judged. 1650</item>
+                  <item>88 — New Returna Brevium. 1650</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Law Books omitted.</head>
+               <list>
+                  <item>1 <hi>PRynn</hi> of the Sovere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gn Dominion of the Kings of <hi>England</hi> over all perſons and Cauſes, in the Reign of King <hi>John, Henry</hi> the 3. and <hi>Edward</hi> the 1. fol. 1670</item>
+                  <item>2 <hi>Selden</hi>'s Right and Dominion of the Sea, fol. 1663</item>
+                  <item>3 <hi>Grotius</hi> of the Rights of War and Peace. 1682</item>
+                  <item>4 <hi>Petyt</hi>'s Treatiſe of Taxes and Contributions, quarto. 1679</item>
+                  <item>5 <hi>Prynn</hi>'s Brevia Parliamentaria rediviva, quarto. 1662</item>
+                  <item>6 The Priviledges and Practices of Parliaments in <hi>England,</hi> quarto. 1680</item>
+                  <item>7 <hi>Fab. Philips</hi> of the Antiquity, Legality, right uſe, and ancient uſage of Fines pay'd in Chancery, quarto. 1663</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Philological.</head>
+               <list>
+                  <item>8 <hi>HOlyoak</hi>'s Large Dictionary, Latin and Engliſh, fol.</item>
+                  <item>9 <hi>Minſhaw</hi>'s Dictionary of nine Languages, fol.</item>
+                  <item>10 <hi>Ciceronis</hi> Opera, 2 vol. fol.</item>
+                  <item>11 <hi>Littleton</hi>'s Dictionary, Engliſh and Lat. quarto.</item>
+                  <item>12 <hi>Goldman</hi>'s Dictionary, Engliſh and Lat. quarto.</item>
+                  <item>13 <hi>Cole</hi>'s Dictionary, Engliſh and Lat. quarto.</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Engliſh Hiſtory, Political, Humanity, &amp;c. <hi>Folio,</hi>
+               </head>
+               <list>
+                  <item>1 <hi>HEylin</hi>'s Coſmography. 1677</item>
+                  <item>2 Hiſtory of the Council of Trent, and of the Spaniſh Inquiſition, by Father <hi>Paul.</hi> 1676</item>
+                  <item>3 <hi>Fowlis</hi>'s Hiſtory of Romiſh Treaſons, and Uſurpation. 1681</item>
+                  <item>4 — Of the Plots and Conſpiracies of the Presbyterians. 1674</item>
+                  <item>5 Cardinal <hi>Bentivogli</hi>'s Hiſtory of the Wars of <hi>Flanders.</hi> 1678</item>
+                  <item>6 <hi>Howell</hi>'s Hiſtory of the World, in 2 vol. 1680</item>
+                  <item>7 The Holy Court by <hi>Nic. Cauſin.</hi> 1678</item>
+                  <item>8 Sir <hi>William Dugdale</hi>'s View of the late troubles in <hi>England.</hi> 1681</item>
+                  <item>9 — Baronage of <hi>England,</hi> in 2 vol. 1678</item>
+                  <item>10 Sir <hi>Rich. Baker</hi>'s Chronicle of <hi>England.</hi> 1679</item>
+                  <item>11 <hi>Towſend</hi>'s Hiſtorical Collections of the Four laſt Parliaments, of Q <hi>Elizabeth.</hi> 1680</item>
+                  <item>12 <hi>Burlace</hi>'s Hiſtory of the Iriſh Rebellion. 1680</item>
+                  <item>13 Dr. <hi>Burnet</hi>'s Hiſtory of the Reformation of the Church of <hi>England,</hi> in 2 vol. 1631</item>
+                  <item>14 <hi>Hobbs</hi>'s Leviathan. 1651</item>
+                  <item>15 <hi>Wilſon</hi>'s Hiſtory of the Reign of King <hi>James.</hi> 1653</item>
+                  <item>16 <hi>Davila</hi>'s Hiſtory of the Wars of <hi>France.</hi> 1678</item>
+                  <item>17 <hi>Spotſwood</hi>'s Hiſtory of the Church of <hi>Scotland.</hi>
+                  </item>
+                  <item>18 <hi>Burnet</hi>'s Memoires, of the Lives of the Dukes of <hi>Hamilton.</hi> 1677</item>
+                  <item>19 <hi>Gualdo Priora</hi>'s Hiſtory of France. 1676</item>
+                  <item>
+                     <pb n="9" facs="tcp:171464:7"/>20 <hi>Speed</hi>'s Chronicle of Great Britain.</item>
+                  <item>21 — Geographical Deſcription of <hi>England,</hi> and Foreign parts, beſt Paper. 1676</item>
+                  <item>22 <hi>Wanly</hi>'s Wonders of the World, or Hiſtory of Man. 1678</item>
+                  <item>23 <hi>Machiavell</hi>'s Works. 1680</item>
+                  <item>24 Lord <hi>Bacon</hi>'s Natural Hiſtory. 1670</item>
+                  <item>25 — Advancement and Proficiency of Learning. 1674</item>
+                  <item>26 <hi>Ruſhworth</hi>'s Hiſtorical Collections, with Lord <hi>Staffords</hi> Tryal, in 4 vol. 1680</item>
+                  <item>27 <hi>Tavernier</hi>'s Travels through <hi>Turkey</hi> into the Eaſt-Indie. 1678</item>
+                  <item>28 <hi>Wilkins</hi>'s Eſſay of a Philoſophical Language. 1668</item>
+                  <item>29 <hi>Ricaut</hi>'s Hiſtory of the <hi>Turks.</hi> 1680</item>
+                  <item>30 Dr. <hi>Cave</hi>'s Lives of the Primitive Fathers. 1677</item>
+                  <item>31 Sir <hi>Tho. Herbert</hi>'s Travels. 1677</item>
+                  <item>32 <hi>Grotius</hi> Of the Rights of War and Peace. 1682</item>
+                  <item>33 <hi>Cary</hi>'s Chronological Account of antient time. 1677</item>
+                  <item>34 Hiſtory of the Life and Reign of King <hi>Edward</hi> the Second. 1680</item>
+                  <item>35 <hi>Feltham</hi>'s Reſolves, Divine, Moral, Political. 1677</item>
+                  <item>36 <hi>Oglesby</hi>'s Homer's Iliads with Figures. 16</item>
+                  <item>37 Captain <hi>Knox</hi>'s Hiſtory of the Iſland of <hi>Ceylon,</hi> with Figures. 1681</item>
+                  <item>38 <hi>Willoughby</hi>'s Hiſtory of Birds, with many curious Figures. Alſo Diſcourſes of the Art of Fowling, Of ordering Singing Birds, and of Falconry. 1658</item>
+                  <item>39 <hi>Dugdale</hi>'s Antiquities of St. <hi>Pauls</hi> Cathedral. 1658</item>
+                  <item>40 Sir <hi>Winſton Churchill</hi>'s Remarks on the Lives of all the Kings of <hi>England.</hi> 1675</item>
+                  <item>41 Sir <hi>William Davenant</hi>'s Works. 1673</item>
+                  <item>42 <hi>Beaumont</hi> and <hi>Fletcher</hi>'s Playes. 1679</item>
+                  <item>43 <hi>Cowley</hi>'s Poems, <hi>&amp;c.</hi> compleat. 1680</item>
+                  <item>44 <hi>Clark</hi>'s General Martyrology. 1677</item>
+                  <item>45 — Lives of the Fathers, being the Marrow of Eccleſiaſtical Hiſtory. 1675</item>
+                  <item>46 <hi>Syſtema Agriculturae,</hi> or Myſtery of Husbandry diſcovered. 1675</item>
+                  <item>47 Dr. <hi>Cudworth</hi>'s Intellectual Syſtem of the Univerſe. 1678</item>
+                  <item>48 <hi>Reynolds</hi> of the Triumphs of Gods Revenge againſt Murder, and Adultery. 1679</item>
+                  <item>49 <hi>Rea</hi>'s <hi>Flora, Ceres</hi> and <hi>Pomona.</hi> 1676</item>
+                  <item>50 <hi>Purchas</hi> his Pilgrims, 5 vol. 1615</item>
+                  <item>51 <hi>Ludolphus</hi> his H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtory of Ethiopia, with Figures. 1682</item>
+                  <item>52 <hi>Sanderſon</hi>'s Hiſtory of King <hi>Charles.</hi> 1658</item>
+                  <item>53 <hi>Webſter</hi>'s Diſplay of Witchcraft. 1677</item>
+                  <item>54 Hiſtory of <hi>Polybius,</hi> Engliſh. 1634</item>
+                  <item>55 Madam <hi>Philips</hi> Poems, and Plays. 1678</item>
+                  <item>56 Partheniſſa, by the Earl of <hi>Orrery.</hi> 1676</item>
+                  <item>57 <hi>Orlando Furioſo,</hi> by Sir <hi>John Harrington,</hi> with Figures. 1634</item>
+                  <item>58 <hi>Leybourn</hi>'s Compleat Surveyor. 1679</item>
+                  <item>59 — Dyalling. 1682</item>
+                  <item>60 <hi>Heath</hi>'s Chronicle of the late Wars in <hi>England.</hi> 1676</item>
+                  <item>61 Hiſtory of <hi>Lapland,</hi> with Manners, Habits and Conjurations of that People. 1674</item>
+                  <item>62 Oglesby's <hi>Aſia, Africa, America, China</hi> and Hiſtory of <hi>Japan,</hi> all Compleat and il<g ref="char:EOLhyphen"/>luſtrated with curious Figures, in 6 vol.</item>
+                  <item>63 <hi>Camden</hi>'s <hi>Britannia,</hi> with Mapps. 1610</item>
+                  <item>64 <hi>Bramhall</hi>'s Hiſtory of Spectres, Apparitions, Oracles, <hi>&amp;c.</hi> 1659</item>
+                  <item>65 <hi>Thucydides</hi>'s <hi>Peloponeſian</hi> Hiſtory, Engliſhed by <hi>Hobbs.</hi> 1679</item>
+                  <item>66 <hi>Plutarch</hi>'s Lives, with the ſupplement. 1676</item>
+                  <item>67 <hi>Nalſon</hi>'s Impartial Collection of great affairs of State. 1682</item>
+                  <item>68 <hi>Fox</hi>'s Book of Martyrs, or Acts and Monuments of the Church, 3 vol. 1631, &amp;c.</item>
+                  <item>69 <hi>Ovid</hi>'s Metamorphoſs Engliſhed, mythologized, and repreſented in Figures, by <hi>Sands.</hi> 1632</item>
+                  <item>
+                     <pb n="10" facs="tcp:171464:8"/>70 <hi>Whitlock</hi>'s Memorials of Engliſh affairs. 1682</item>
+                  <item>71 <hi>Philip</hi>'s Dictionary of hard Engliſh words. 1678</item>
+                  <item>72 Dr. <hi>Ingelo</hi>'s <hi>Bentevoglio</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>rania</hi> compleat. 1673</item>
+                  <item>73 <hi>Burton</hi>'s Anatomy of Melancholy, with a Satyrical Preface. 1676</item>
+                  <item>74 <hi>Camden</hi>'s Life and Reign of Queen <hi>Elizabeth.</hi> 1675</item>
+                  <item>75 Annals of K. <hi>James</hi> and K. <hi>Charles,</hi> by <hi>Frankland</hi> 1681</item>
+                  <item>76 <hi>Evelyn</hi> of Foreſt Trees, and Propagation of Timber. 1679</item>
+                  <item>77 <hi>Noſtradamus</hi> his Prophecies. 1672</item>
+                  <item>78 <hi>Appian</hi> of <hi>Alexandria</hi> his Hiſtory of the Civil Wars of <hi>Rome.</hi> 1679</item>
+                  <item>79 <hi>May</hi>'s Hiſtory of the Parliament of <hi>England.</hi> 1647</item>
+                  <item>80 <hi>Spencer</hi>'s Fairy Queen. 1609</item>
+                  <item>81 Hiſtory of the uniting of the Kingdom of <hi>Portugal</hi> to the Crown of <hi>Caſtil.</hi> 1600</item>
+                  <item>82 <hi>Seneca</hi>'s Works in Engliſh. 1614</item>
+                  <item>83 <hi>William</hi>'s Perfect States-man. 1668</item>
+                  <item>84 <hi>Saunder</hi>'s <hi>Phyſiognomy</hi> and <hi>Chiromancy.</hi> 1671</item>
+                  <item>85 <hi>Blome</hi>'s <hi>Britannia,</hi> with Mapps.</item>
+                  <item>86 Duke of <hi>Albemarle</hi>'s Obſervations upon Military and Political affairs. 1671</item>
+                  <item>87 Sir <hi>James Turner</hi>'s Pallas Armata; Military Eſſayes of the Ancient, Grecian, Roman, and Modern Art of War.</item>
+                  <item>88 The Sphere of <hi>Marcus Manilius</hi> made an Engliſh Poem, with Annotations, and an Aſtro<g ref="char:EOLhyphen"/>nomical Appendix, by <hi>Edw. Sherburn,</hi> Eſq;. 1675</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Engliſh Hiſtory in <hi>Quarto.</hi>
+               </head>
+               <list>
+                  <item>1 SIr <hi>John Temple</hi>'s Hiſtory of the Iriſh Rebellion</item>
+                  <item>2 <hi>Milton</hi>'s Hiſtory of <hi>Britain.</hi>
+                  </item>
+                  <item>3 The Tryal of Witts.</item>
+                  <item>4 <hi>Markham</hi>'s Maſter-piece, concerning Farriery.</item>
+                  <item>5 <hi>Godwin</hi>'s Jewiſh antiquities.</item>
+                  <item>6 <hi>Digby</hi> of Bodies, of the Immortality of the Soul, and of Sympathetical Powder.</item>
+                  <item>7 The Image broken, being an Anſwer to <hi>Miltons Eikonoclaſtes.</hi>
+                  </item>
+                  <item>8 <hi>Yarrington</hi>'s <hi>Englands</hi> Improvement.</item>
+                  <item>9 Book of the names of all the Pariſhes, Market-Towns, Villages and Hamlets of <hi>England</hi> and <hi>Wales.</hi>
+                  </item>
+                  <item>10 Earl of <hi>Clarendon</hi>'s Survey of <hi>Hobb</hi>'s Leviathan.</item>
+                  <item>11 <hi>Glanvill</hi>'s <hi>Scepſis Scientifica;</hi> Vanity of Dogmatizing.</item>
+                  <item>12 <hi>Godwin</hi>'s Expoſition of the Roman Antiquities.</item>
+                  <item>13 <hi>Palmer</hi>'s Mathematical Jewel.</item>
+                  <item>14 <hi>Cumber</hi>'s Hiſtorical Vindication of Tythes.</item>
+                  <item>15 The Bull of Pope <hi>Pius</hi> the Fifth againſt Q. <hi>Elizabeth,</hi> with Obſervations of Bp. <hi>Barlow.</hi>
+                  </item>
+                  <item>16 <hi>Phioravant</hi>'s Collection of Secrets in Phyſick and Surgery.</item>
+                  <item>17 <hi>French</hi> his Art of Deſtillation.</item>
+                  <item>18 <hi>Gadbury</hi>'s Ephemerides, to 1701. in 2 vol.</item>
+                  <item>19 <hi>Brugis</hi>'s Marrow of Phyſick.</item>
+                  <item>20 <hi>Glanvill</hi>'s Eſſays on ſeveral Subjects.</item>
+                  <item>21 <hi>Markham</hi>'s Farewell to Husbandry.</item>
+                  <item>22 The Jeſuits Loyalty, manifeſted by three ſeveral Treatiſes written by them, againſt the Oath of Allegiance, with Dr. <hi>Stillingfleet</hi>'s Preface.</item>
+                  <item>22 — A Collection of ſeveral Treatiſes concerning the Reaſons and Occaſions of the Penal Laws.</item>
+                  <item>23 <hi>Nicholſon</hi>'s Expoſit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on on the Church Catechiſm.</item>
+                  <item>
+                     <pb n="11" facs="tcp:171464:8"/>24 <hi>Prideaux</hi>'s Introduction to the Reading all ſorts of Hiſtories.</item>
+                  <item>25 <hi>Leiceſter</hi>'s Common-wealth.</item>
+                  <item>26 <hi>Atwell</hi>'s Faithful Surveyer.</item>
+                  <item>27 Letter of Reſolution, concerning <hi>Origen</hi> and his Opinions.</item>
+                  <item>27 — <hi>Warren</hi>'s Diſcourſe againſt Praexiſtence of Humane ſouls.</item>
+                  <item>28 Catalogue of the Books and Manuſcripts of the <hi>Norfolk</hi> Library.</item>
+                  <item>29 <hi>Oglesby</hi>'s Aeſops Fables Paraphraſed, with Figures.</item>
+                  <item>30 <hi>Cawdrey</hi>'s Store-houſe of Similies.</item>
+                  <item>31 <hi>Campanella</hi>'s Diſcourſe of the Spaniſh Monarchy.</item>
+                  <item>32 The Hiſtories of ſeveral Popiſh Policies and Practices in <hi>England</hi> and <hi>France.</hi>
+                  </item>
+                  <item>33 Lord <hi>Bacon</hi>'s Eſſayes.</item>
+                  <item>34 <hi>Watſon</hi>'s Ten Quodlibetical queſtions concerning Religion and State. 1602</item>
+                  <item>35 <hi>Hayward</hi>'s Anſwer to <hi>Doleman</hi>'s Conference about Succeſſion. 1603</item>
+                  <item>36 The Golden Fleece, diſcovering the errors of Religion, the vices and decayes of the Kingdom, the ways to get wealth and reſtore Trade. 1626</item>
+                  <item>37 <hi>Lloyd</hi>'s Dyal of Days containing 920 Roman triumphs, beſides the triumphant Obelisks and Pyramids of the Aegyptians, Pillars, Arches and Trophies of the Grecians Perſians, <hi>&amp;c.</hi> 1590</item>
+                  <item>38 <hi>Melbank</hi>'s War betwixt Nature and Fortune. 1583</item>
+                  <item>39 <hi>Matthew</hi>'s Life and Death of King <hi>Henry</hi> 4. of <hi>France.</hi>
+                  </item>
+                  <item>40 <hi>Lloyd</hi>'s Conſent of Time, deciphering the Chronlogical errours of the Grecians, Romans and Perſians. 1590</item>
+                  <item>41 <hi>Bigg</hi>'s vanity of the Craft of Phyſick. 1651</item>
+                  <item>42 <hi>Oſorius</hi>'s of Civil and Chriſtian Nobility. 1576</item>
+                  <item>43 <hi>Pearſon</hi>'s Varieties, wherein the principal heads of divers Sciences are illuſtrated, and ſecrets of Nature unfolded. 1635</item>
+                  <item>44 <hi>Hernaudo Cortes</hi>'s Hiſtory of the Conqueſt of the Weſt Indies, called <hi>New Spain.</hi> 1578</item>
+                  <item>45 <hi>Pugh</hi>'s Britiſh, and Outlandiſh Prophecies. 1658</item>
+                  <item>46 <hi>Selden</hi>'s Titles of Honour. 1614</item>
+                  <item>47 <hi>Barrow</hi>'s Method of Phyſick. 1590</item>
+                  <item>48 The Stage of Popiſh Toys, collected out of <hi>Stephanus</hi> his Apology for <hi>Herodotus.</hi> 1581</item>
+                  <item>49 <hi>Horace</hi>'s Odes in Engliſh. 1625</item>
+                  <item>50 Dr. <hi>Donn</hi>'s Poems. 1633</item>
+                  <item>51 <hi>Charleton</hi>'s Enquiries into Humane Nature. 1680</item>
+                  <item>52 <hi>Branker</hi>'s Introduction to Algebra. 1668</item>
+                  <item>53 The Faithfull Surveyor, by <hi>Atwell.</hi>
+                  </item>
+                  <item>54 Deſcription of <hi>Surinam,</hi> upon the Continent of <hi>Guiana</hi> in <hi>America.</hi> 1667</item>
+                  <item>55 The Jeſuits Catechiſm. 1681</item>
+                  <item>56 The Politician Diſcovered. 1681</item>
+                  <item>57 <hi>Markam Needham</hi>'s Hiſtory of the Engliſh Rebellion. 1661</item>
+                  <item>58 Reaſon and Judgment, or ſpecial remarks on the Life of Biſhop <hi>Sanderſon.</hi> 1663</item>
+                  <item>59 Lord <hi>Bacon</hi>'s Relation of the Sweating Sickneſs, examin'd by Dr. <hi>Stubbs,</hi> with his Defence of Phlebotomy. 1671</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Engliſh Hiſtory in <hi>Octavo.</hi>
+               </head>
+               <list>
+                  <item>1 <hi>LA Mothe (Francis)</hi> Animadverſions on the Greek and Latin Hiſtorians 1678</item>
+                  <item>2 <hi>Culpeper (Nich.)</hi> Engliſh Phyſician Enlarged. 1656</item>
+                  <item>3 Myſtery of Jeſuitiſm, or the New Hereſie of the Jeſuits. 1664</item>
+                  <item>4 Rich Cabinet of Inventions, with Direct. for Drawing, Painting, <hi>&amp;c.</hi> 1677</item>
+                  <item>5 Treatiſe of Armes and Military Engines, Ancient and Modern. 1678</item>
+                  <item>6 <hi>Cleveland (John)</hi> Poems, Orations, Epiſtles, <hi>&amp;c.</hi> 1677</item>
+                  <item>
+                     <pb n="12" facs="tcp:171464:9"/>7 An argument, proving <hi>William</hi> D. of <hi>Normandy</hi> made no abſolute Conqueſt of <hi>England</hi> by the Sword. 1682</item>
+                  <item>8 <hi>Wren (M.)</hi> Monarchy aſſerted, or State of Monarchy and Popular Government. 1660</item>
+                  <item>9 <hi>Fulk</hi> (Dr. <hi>W.</hi>) Deſcription of Meteors, Fiery, Aiery, Watry and Earthy. 1670</item>
+                  <item>10 <hi>Ovid</hi>'s 5 Books <hi>de Triſtibus,</hi> in Engliſh verſe.</item>
+                  <item>11 Phyſick for Families, enabling every one to cure themſelves. 1674</item>
+                  <item>12 <hi>Markham</hi>'s Perfect Horſe-man, or 50 years practice. 1680</item>
+                  <item>13 <hi>Mill (Hum.)</hi> Night ſearch, with the Projects of the times. 1646</item>
+                  <item>14 <hi>Lucius Florus</hi>'s Roman Hiſtory in Engliſh.</item>
+                  <item>15 Hiſtory of Ancient Ceremonies, or their Riſe and Growth in the Church. 1669</item>
+                  <item>16 <hi>Davies (John)</hi> Obſervations on <hi>Homer</hi> and <hi>Virgill.</hi> 1672</item>
+                  <item>17 <hi>Filmer</hi> (Sr. <hi>R.</hi>) Diſcourſe of the Lawfulneſs of Uſury. 1678</item>
+                  <item>18 <hi>Marvel (And.)</hi> Rehearſal Tranſpros'd. 1672</item>
+                  <item>19 <hi>Martingdale (Ad.)</hi> Land-meters <hi>Vade mecum,</hi> or Rules for ſurveying. 1682</item>
+                  <item>20 <hi>Bacon (Nath.)</hi> Relation of the fearful Eſtate of <hi>Francis Spira.</hi> 1678</item>
+                  <item>21 <hi>Thraſter (W.)</hi> Marrow of Chymical Phyſick. 1679</item>
+                  <item>22 Witty Apothegms of K. <hi>James,</hi> K. <hi>Charles,</hi> Lord <hi>Bacon,</hi> &amp;c. 1669</item>
+                  <item>23 Lives of Notorious Villains, memorable for their baſe Actions. 1678</item>
+                  <item>24 <hi>Monſieur Denis</hi> his Treatiſe of the Court, or inſtruction for Courtiers. 1622</item>
+                  <item>25 Alcoran of Mahomet, in Engliſh. 1649</item>
+                  <item>26 Catalogue of the Baronets of <hi>England.</hi> 1667</item>
+                  <item>27 <hi>Fage</hi>'s Coſmography, or Deſcription of the whole World, with Figures. 1667</item>
+                  <item>28 <hi>Britannia</hi>'s Paſtorals, a Poem. 1625</item>
+                  <item>29 Witts Arithmetical Queſtions. 1634</item>
+                  <item>30 <hi>Alleyn (Ch.)</hi> Hiſtory of <hi>Henry</hi> the 7th. and Battail of <hi>Poicteris.</hi> 1638</item>
+                  <item>31 <hi>Davies (J.)</hi> Ceremonies of the Vacant ſee, in the Election of a Pope. 1671</item>
+                  <item>32 <hi>Blunt (Sr. H.)</hi> Voyage to <hi>Levant,</hi> 1667. Voyage to <hi>Mauritania.</hi> 1671</item>
+                  <item>32 Lord <hi>Howard</hi>'s Journey to <hi>Vienna</hi> and <hi>Conſtantinople.</hi> 1671</item>
+                  <item>33 3 Volums of Almanacks of ſeveral Authors, for the years 1627, 28, 39.</item>
+                  <item>34 Hiſtory of the Life and Death of <hi>Mary</hi> Queen of <hi>Scots.</hi> 1636</item>
+                  <item>35 <hi>Cicero</hi>'s Familiar Epiſtles, in Engliſh.</item>
+                  <item>36 <hi>Marcus Aurelius</hi>'s Golden Book. 1566</item>
+                  <item>37 <hi>Gailhard (J.)</hi> Preſent State of Princes in <hi>Italy.</hi> 1668</item>
+                  <item>38 Son of the Rogue, or the Antiquity of Thieves. 1638</item>
+                  <item>39 State of <hi>France,</hi> as it ſtood in the 9th. year of <hi>Lewis</hi> 14th. 1652</item>
+                  <item>40 Breviary of the Hiſtory of Parliaments in <hi>England,</hi> by <hi>T. May.</hi> 1650</item>
+                  <item>41 <hi>May (Tho.)</hi> his Tranſlation of <hi>Lucan</hi>'s <hi>Pharſalia.</hi> 1631</item>
+                  <item>42 King of <hi>Spain</hi>'s Cabinet Council divulged. 1658</item>
+                  <item>43 <hi>Spencer (Tho.)</hi> Art of Logick. 1628</item>
+                  <item>44 Heroick Education, or Choice Maxims for training up Youth. 1657</item>
+                  <item>45 <hi>Hart (John)</hi> his Orthography. 1569</item>
+                  <item>46 <hi>Romulus</hi> and <hi>Tarquin,</hi> by <hi>Malvezzi.</hi> 1637</item>
+                  <item>47 <hi>Filmer</hi> (Sr. <hi>Rob.</hi>) Diſcourſe of the Lawfulneſs of Uſury. 1653</item>
+                  <item>48 <hi>Hayward</hi> (Sr. <hi>John</hi>) Life and Reign of <hi>Edward</hi> 6th. 1636</item>
+                  <item>49 <hi>Hunt (Hon.)</hi> Intereſt of the Princes and States of Chriſtendom. 1641</item>
+                  <item>50 New help to Diſcourſe, or Mirth mixt with Serious matters. 1680</item>
+                  <item>51 <hi>Lucian</hi>'s Dialogues in Engliſh Burleſque. 1675</item>
+                  <item>52 <hi>Rapin (R.)</hi> Reflections on <hi>Ariſtotle</hi>'s Treatiſe of Poeſie. 1674</item>
+                  <item>53 <hi>Keepe (H.)</hi> Hiſtorical Account, St. <hi>Peters</hi> and the Monuments thereof at <hi>Weſtm.</hi> 1682</item>
+                  <item>54 <hi>Verſtegan (R.)</hi> Antiquities of the Engliſh Nation. 1673</item>
+                  <item>55 <hi>Painter</hi>'s Voyage of <hi>Italy,</hi> with an Account of the famous Paintings of the moſt eminent Maſters, with Figures. 1673</item>
+                  <item>56 <hi>Shirley (Tho.)</hi> Curioſities of Scurvygraſs, and the Medicinal Vertues thereof. 1676</item>
+                  <item>
+                     <pb n="13" facs="tcp:171464:9"/>57 Philoſophical Eſſay of the Products of Stones in the World, and of the Cure of the Stone in men. 1672</item>
+                  <item>58 New light to Alchymy, with a Chymical Dictionary. 1674</item>
+                  <item>59 <hi>Joſephus (Ben Go.)</hi> Wars of the Jews, and Deſtruction of <hi>Jeruſalem.</hi> 1682</item>
+                  <item>60 <hi>Manwaring (Tho.)</hi> of Pains in Humane Bodies, with a Tract of Iſſues and Setons. 1682</item>
+                  <item>61 The perfect Politician, or a view of the Life and Actions of <hi>O. Cromwel</hi> 1681</item>
+                  <item>62 <hi>Paſquin</hi> riſen from the Dead, or his Voyage to the other World. 1674</item>
+                  <item>63 Witts Paraphras'd in a Burleſque on the ſeveral late Tranſlations of <hi>Ovia</hi>'s Epiſtles 1680</item>
+                  <item>64 Hiſtory of the Treaty at <hi>Nimueguin,</hi> with Remarks on the Intereſt of <hi>Europe.</hi> 1681</item>
+                  <item>65 Policy of the French Clergy to deſtroy the Proteſtants, in a Dialogue between two Papiſts. 1681</item>
+                  <item>66 Poems on ſeveral occaſions, by the Author of the Cenſure of the <hi>Rota.</hi> 1675</item>
+                  <item>67 <hi>Ray (J)</hi> Collection of Engliſh Proverbs. 1678</item>
+                  <item>68 <hi>Simpſon (W.)</hi> Chymical Anatomy of the <hi>Scarborough</hi> Spaw, and other Spaws in <hi>Yorkſhire.</hi> 1669</item>
+                  <item>69 —Further Diſcovery of the <hi>Scarborough</hi> Spaws, and right uſe thereof 1670</item>
+                  <item>70 Philoſophical Epitaph in Hieroglyphcal Figures, with an explanation of the Golden Calf. 1673</item>
+                  <item>71 <hi>Waller (Edm.)</hi> Poems on ſeveral occaſions. 1668</item>
+                  <item>72 <hi>Scarronides,</hi> or <hi>Virgil</hi> Traveſty. 1678</item>
+                  <item>73 Compleat Troller, or art of Catching Fiſh by Trolling. 1682</item>
+                  <item>74 <hi>Salmon (Will.) London</hi> Diſpenſatory, and Praxis of Chymiſtry. 1682</item>
+                  <item>75 <hi>Woolveridge (J)</hi> Art of Gardening with Figures. 1677</item>
+                  <item>76 <hi>Baconiana,</hi> or certain genuine Remains of Sir <hi>Francis Bacon.</hi> 1679</item>
+                  <item>77 <hi>Temple</hi> (Sir <hi>Will.</hi>) his Miſcellanies. 1681</item>
+                  <item>78 <hi>Flatman (Tho)</hi> his Poems and Songs. 1682</item>
+                  <item>79 Hiſtory of the Houſe of <hi>Eſtée,</hi> the Anceſtors of the preſent Dutcheſs of <hi>York.</hi> 1671</item>
+                  <item>80 <hi>Tate (N.)</hi> his Poems. 1677</item>
+                  <item>81 Unfortunate Heroes, or adventures of ten famous Men, <hi>viz. Ovid, Virgil.</hi> &amp;c. 1679</item>
+                  <item>82 <hi>Britannia Languens,</hi> or a diſcourſe of Trade. 1680</item>
+                  <item>83 <hi>Gailhard (J.)</hi> Compleat Gentleman, or education of Youth at home and abroad 1678</item>
+                  <item>84 Life of the Renowned <hi>Pet. D' Aubuſſon</hi> Grand Maſter of <hi>Rhodes.</hi> 1679</item>
+                  <item>85 Grammatical Drollery, or Poems on the Nouns and Verbs in the Accidence. 1682</item>
+                  <item>86 Life of Captain <hi>William Bedloe,</hi> one of the Diſcoverers of the Plot. 1681</item>
+                  <item>87 Every man his own Doctor, ſhewing them their Conſtitution, and how to apply fit Medicines. 1673</item>
+                  <item>88 <hi>Izacke (Rich.)</hi> Remarkable Antiquities of the City of <hi>Exeter.</hi> 1681</item>
+                  <item>89 <hi>Baſil (Valentine)</hi> Triumphant Chariot of Antimony. 1678</item>
+                  <item>90 <hi>Cole (E.)</hi> Engliſh Dictionary, explaining the difficult Terms in all Arts and Scien<g ref="char:EOLhyphen"/>ces. 1677</item>
+                  <item>91 <hi>Waterhouſe (Edw.)</hi> Gentlemans Monitor, or the Vertues and Vices which are the riſe and decay of Men and Families. 1665</item>
+                  <item>92 Hiſtory of <hi>Tamerlain</hi> the Great. 1679</item>
+                  <item>93 <hi>Rycaut (Paul)</hi> Tranſlation of the Spaniſh Critick. 1681</item>
+                  <item>94 <hi>Ray (John)</hi> Obſervations made in a Journey through the Low Countries. 1673</item>
+                  <item>95 <hi>Merault (P.)</hi> Siege of the City of <hi>Rochell,</hi> with the Edict of <hi>Nantes.</hi> 1680</item>
+                  <item>96 <hi>Cotton</hi>'s <hi>Poſthumes,</hi> with Queſtions concerning the Right and Power of Lords and Commons in Parliament. 1679</item>
+                  <item>97 <hi>Care (H.)</hi> Practical Phyſick, or five Treatiſes of the moſt Predominant Diſeaſes. 1676</item>
+                  <item>98 <hi>Bernier (F.)</hi> Hiſtory of the late Revolution of the Empire of <hi>Mogol,</hi> in two vol. 1676</item>
+                  <item>
+                     <pb n="14" facs="tcp:171464:10"/>99 <hi>Hobbs (Tho.)</hi> Art of Rhetorick, with a Diſcourſe of the Laws of <hi>England.</hi> 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>100 Royal Martyr, of life of K. <hi>Charles</hi> the Firſt, by Dr. <hi>Perinchief.</hi> 1676</item>
+                  <item>101 An account of the Perſecution of the Proteſtants in <hi>France.</hi> 1682</item>
+                  <item>102 <hi>Homer</hi> Alamode, or Burleſque on his ninth Book of Iliads. 1681</item>
+                  <item>103 <hi>Sharrock (Rob.)</hi> Hiſtory of the Improvement of Vegetable's by concurrence of Art and Nature. 1672</item>
+                  <item>104 <hi>Bohun (R.)</hi> Of the origine and properties of Wind, with an account of Hurricanes. 1671</item>
+                  <item>105 <hi>Addiſon</hi>'s <hi>(L.)</hi> Weſt <hi>Barbary,</hi> or Rev lutions of <hi>Fez</hi> and <hi>Morocco.</hi> 1671</item>
+                  <item>106 Image of the Age, in four Characters, <hi>(viz.)</hi> the States-man, Miſer, Gallant, and Schiſmatick. 1676</item>
+                  <item>107 <hi>Scarrons</hi> three Novels, <hi>viz.</hi> Fruitleſs Precaution, Hypocrites, and Innocent Adulte<g ref="char:EOLhyphen"/>ry. 1659</item>
+                  <item>108 Counter-peſt againſt <hi>Plato Redivivus,</hi> in vindication of his Majeſties Prerogatives. 1681</item>
+                  <item>109 Mock-<hi>Clelia,</hi> a Comical Hiſtory in imitation of <hi>Don Quixot.</hi> 1678</item>
+                  <item>110 <hi>Spelman</hi> (Sir <hi>Hen.) Villare Anglicum,</hi> or View of the Cities, Towns and Villages of <hi>England.</hi> 1678</item>
+                  <item>111 <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohuyſe (Hen.)</hi> of the Gout, with Obſervations Medical and Chirurgical. 1676</item>
+                  <item>112 Mirrour of Fortune, or the growth and fall of Empires, and misfortunes of Kings. 1676</item>
+                  <item>113 Hiſtory of <hi>Maſſainello,</hi> and the late Revolutions in <hi>Naples.</hi> 1679</item>
+                  <item>114 <hi>Graaf</hi>'s Phyſical and Anatomical Treatiſe of Pancreatick juice. 1676</item>
+                  <item>115 <hi>Rymer (Tho.)</hi> Examinations of the Tragedies of the laſt Age. 1678</item>
+                  <item>116 <hi>Sandys (George)</hi> Paraphraſe of the Pſalms of <hi>David.</hi> 1676</item>
+                  <item>117 <hi>Manwaringe</hi> (Dr. <hi>E.</hi>) Treatiſe of the Scurvey. 1679</item>
+                  <item>118 <hi>Sermon (Will.)</hi> Ladies Companion, or Engliſh Widwife. 1671</item>
+                  <item>119 Life and Reign of K. <hi>Richard</hi> the Second. 1681</item>
+                  <item>120 <hi>Luzancys</hi>'s Reflection on the Council of <hi>Trent.</hi> 1677</item>
+                  <item>121 Marriages of Couſin Germans Vindicated from unlawfulneſs. 1673</item>
+                  <item>122 <hi>Wolley (H.)</hi> Gentlewomans Companion, or direction for Behaviour in all Com<g ref="char:EOLhyphen"/>panies. 1675</item>
+                  <item>123 Preſent State of <hi>Ruſſia.</hi> 1671</item>
+                  <item>124 King <hi>Charles</hi> the Firſt his Works. 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1</item>
+                  <item>125 <hi>Burnet</hi> (Dr. <hi>G.</hi>) Hiſtory of the Rights of Princes in diſpoſing Eccleſiaſtical Benefices. 1682</item>
+                  <item>126 <hi>Blunt (T.)</hi> Gloſſographia, or Dictionary of hard words. 1661</item>
+                  <item>127 <hi>Manger (Cl.)</hi> French Grammar, enriched with fifty new Dialogues. 1662</item>
+                  <item>128 <hi>Howel (James)</hi> Familiar Letters, Hiſtorical, Political, and Philoſophical. 1650</item>
+                  <item>129 <hi>Don Tomazo,</hi> or the juvenile Rambles of <hi>Tho. Dangerfield.</hi> 1680</item>
+                  <item>130 <hi>Hierocles</hi> on the golden Verſes of the Pythagoreans, tranſlated out of Greek. 1682</item>
+                  <item>131 <hi>Langford (T.)</hi> Inſtructions for raiſing all ſorts of Fruit-Trees. 1681</item>
+                  <item>132 Paraphraſe upon Paraphraſe, or Burleſque on the ſeveral late Tranſlations of <hi>Ovid</hi>'s Epiſtles. 1680</item>
+                  <item>133 Hiſtory of the Houſe of <hi>Ferrara,</hi> with an account of the pretended devolution of that Dutchy, unjuſtly uſurped by <hi>Clement</hi> the Eighth. 1681</item>
+                  <item>134 Life and Death of the Earl of <hi>Rocheſter,</hi> by Dr. <hi>Gilbert Burnet.</hi> 1680</item>
+                  <item>135 <hi>Grew</hi>'s (Dr. <hi>N.</hi>) Anatomy of Vegetables, with an account of Vegetation. 1672</item>
+                  <item>136 —Continuation of his Anatomy of Vegetables. 1673</item>
+                  <item>137 —Comparative Anatomy of Trunks, with their Vegetation. 1675</item>
+                  <item>138 Collection of ſelect Diſcourſe out of the moſt eminent Wits of <hi>France</hi> and <hi>Italy.</hi> 1678</item>
+                  <item>139 Diſcourſe of Supream Power and Common Right, by Sir <hi>John Munſon.</hi> 1680</item>
+                  <item>140 <hi>Stanhope (Tho.)</hi> Subſtance of the New Teſtament, more eſpecially Hiſtorical. 1680</item>
+                  <item>141 <hi>Ruſden (M.)</hi> of the Nature, Government, Generation, and Preſervation of Bees. 1680</item>
+                  <item>
+                     <pb n="15" facs="tcp:171464:10"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>42 Viſions of <hi>Don Franciſco de Quevedo.</hi> 1678</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>43 —<hi>Idem,</hi> the ſecond Part. 1682</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>44 Hiſtory of Prince <hi>Eraſtus,</hi> and the ſeven Wiſe Maſters of <hi>Rome.</hi> 1674</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>45 Memoirs of the Life and Death of Sir <hi>Edmondbury Godfrey.</hi> 1682</item>
+                  <item>146 <hi>Glanius</hi>'s Relation of a Voyage into <hi>Bengalia.</hi> 1682</item>
+                  <item>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7 Hiſtory of the Whores and Whoredoms of the Popes and Cardinals of <hi>Rome.</hi> 1679</item>
+                  <item>148 Court of Curioſity, reſolving moſt intricate Queſtions, and explaining Dreams. 1681</item>
+                  <item>149 Journey into <hi>Wales,</hi> deſcribing the Manners and Cuſtoms of that Countrey. 1682</item>
+                  <item>150 <hi>Carter (Mat.)</hi> Analyſis of Honour and Armory. 1655</item>
+                  <item>151 Intereſt of <hi>England, Spain, Germany, Italy, Denmark, France, &amp;c.</hi> 1680</item>
+                  <item>152 <hi>Leigh (Ed.)</hi> Obſervations on the Roman Emperours. 1637</item>
+                  <item>153 Wit and Drollery, Jovial Poems. 1682</item>
+                  <item>154 <hi>Manwaringe</hi> (Dr. <hi>E.</hi>) Different opinions of Writers about the Scurvey. 1672</item>
+                  <item>155 An account of the Tryal of the 29 Regicides. 1679</item>
+                  <item>156 Poems and Eſſays, with a Paraphraſe on <hi>Cicero's Lelius,</hi> or of Friendſhip. 1673</item>
+                  <item>157 <hi>Loveday (R.)</hi> Letters Domeſtick and Foreign. 1662</item>
+                  <item>158 Caſe of the Bankers and their Creditors Stated and Examined. 1675</item>
+                  <item>159 <hi>Silvius de le Boe,</hi> of the Rickets, and other Diſeaſes incident to Children. 1682</item>
+                  <item>160 <hi>L. Florus</hi>'s Roman Hiſtory in four Books, beginning with the Life of <hi>Romulus.</hi> 1672.</item>
+                  <item>161 Life of <hi>Donna Olympia,</hi> who governed the Church during the time of Pope <hi>Innocent</hi> the Tenth. 1678</item>
+                  <item>162 A Record of Antient Hiſtories entituled <hi>Geſta Romanorum.</hi> 1681</item>
+                  <item>163 <hi>Dalgarno (Geo.)</hi> Deaf and Dumb mans Tutor. 1680</item>
+                  <item>164 Compleat Gameſter, or inſtructions for Billiards, Bowles, Cheſs, <hi>&amp;c.</hi> with the Arts of Riding, Raceing, Archery, Cock-Fighting. 1680</item>
+                  <item>165 Inſtrument to cleanſe the Stomach, with new experiments of Tobacco and Coffee. 1659</item>
+                  <item>166 <hi>Milton (John)</hi> Hiſtory of <hi>Moſcovia.</hi> 1682</item>
+                  <item>167 Book of Knowledge, ſhewing the effects of the Planets on Children born under them. 1671</item>
+                  <item>163 The Problems of <hi>Ariſtotle</hi> and other Philoſophers and Phyſicians, touching the ſtate of mans body. 1679</item>
+                  <item>169 <hi>Galen</hi>'s Art of Phyſick, with the ſigns of good and bad Conſtitutions. 1671</item>
+                  <item>170 Gentlemans way to Honour in the Univerſity, Court or Camp. 1678</item>
+                  <item>171 <hi>Culpeper (Nich.)</hi> Directory for Midwives, about Conception, Child bearing and Suckling. 1681</item>
+                  <item>172 Touchſtone of Phyſick, or a method of cure without Purges, Vomits, Bleeding, <hi>&amp;c.</hi> 1667</item>
+                  <item>173 <hi>Sion</hi> in Diſtreſs, or the groans of the Proteſtant Church, with Figures. 1682</item>
+                  <item>174 <hi>Record (R.)</hi> Of Urines, with a Treatiſe of Phyſicians, Apothecaries, and Chirurgeons. 1665</item>
+                  <item>175 <hi>Rowland (W.)</hi> of the Nature, Cauſes and Cure of Wind in mans Body. 1676</item>
+                  <item>176 <hi>Shelton (Tho.)</hi> His moſt compendious and ſwift way of ſhort Writing. 1674</item>
+                  <item>177 <hi>Oxford</hi> Drollery, both parts, being new Poems and Songs. 1679</item>
+                  <item>178 The Star of the Eaſtern Sages, with an account of Comets preſaging the coming of Chriſt. 1681</item>
+                  <item>179 <hi>Tillotſon</hi> (Dr. <hi>Joh.</hi>) Sermon at the Funeral of <hi>Tho. Gouge,</hi> with his Life. 1682</item>
+                  <item>180 <hi>Stubbs (Hen.)</hi> Acts of Grandeur and ſubmiſſion. 1665</item>
+                  <item>181 The loving enemy, a famous French Hiſtory. 1650</item>
+                  <item>182 <hi>Lipſius (Juſt.)</hi> Diſcourſe of Conſtancy, or conſolations againſt Publick evils. 1670</item>
+                  <item>183 <hi>Taylor</hi> (Biſh. <hi>Jer</hi>) Rules and Exerciſe of holy Living and Dying, in two Volumes with Figures. 1660</item>
+                  <item>184 Whole Duty of Man. 1667</item>
+                  <item>
+                     <pb n="16" facs="tcp:171464:11"/>185 <hi>Hammond</hi> (Dr. <hi>Hen.</hi>) Practical Catechiſm. 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>186 <hi>Religio Medici</hi> with Annotations. 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>187 <hi>Moulins (Will.)</hi> Anatomical adminiſtration of the Muſcles. 1680</item>
+                  <item>188 A Weeks preparation for the worthy receiving the Lords Supper 1679</item>
+                  <item>189 Letters (between the Lord <hi>George Digby,</hi> and Sir <hi>Kenelm Digby</hi>) about Religion. 1651</item>
+                  <item>190 Poor <hi>Robin</hi>'s Jeſts, being a collection of Jeſts never before publiſhed. 1666</item>
+                  <item>191 A Compendious Chronicle of <hi>England,</hi> from its firſt being inhabited to this preſent year 1679.</item>
+                  <item>192 <hi>Care (Hen.)</hi> Female Secretary, or choice new Letters. 1671</item>
+                  <item>193 Country-mans Phyſician, with directions how to cure themſelves. 1680</item>
+                  <item>194 The whole art of Angling, or the ready way to take all ſorts of Fiſh.</item>
+                  <item>195 <hi>Playford (J.)</hi> Introduction to the skill of Muſick. 1658</item>
+                  <item>196 <hi>Collard (Tho.)</hi> Diſcourſe of the preſent ſtate of the Body, and future ſtate of the Soul. 1678</item>
+                  <item>197 <hi>Wild (R.) Iter Boreale,</hi> with ſeveral other Poems. 1668</item>
+                  <item>198 <hi>Quarles</hi>'s Kingly Bed of miſery, with an Elegy on the Martyrdome of K. <hi>Charles.</hi> 1679</item>
+                  <item>199 <hi>Poor Robin</hi>'s Jeſts, or the compleat Jeſter. 1673</item>
+                  <item>200 <hi>Ovia</hi>'s Traveſtie, or a Mock-poem on five Epiſtles of <hi>Ovid.</hi> 1673</item>
+                  <item>201 <hi>Poor Robin</hi>'s Viſions, Deſcribing the humours of the Times. 1677</item>
+                  <item>202 <hi>Morland</hi> (Sir <hi>Samuel</hi>) Doctrine of Intereſt both ſimple and compound. 1679</item>
+                  <item>203 Proſpect of the Government of <hi>Europe,</hi> ſhewing the Antiquity, Power and Decay of Parliaments. 1681</item>
+                  <item>204 <hi>Raleigh</hi> (Sir <hi>Walter</hi>) Marrow of Hiſtory, or Epitome of his Hiſtory of the World 1662</item>
+                  <item>205 <hi>Sandys (Geo.)</hi> Tranſlation of <hi>Ovid</hi>'s Metamorphoſis. 1638</item>
+                  <item>206 Wits recreations, or Epigrams, Epitaphs, Fancies, <hi>&amp;c.</hi> good for melancholy hu<g ref="char:EOLhyphen"/>mours. 1641</item>
+                  <item>207 <hi>Randolph (Tho.)</hi> Poems, with the Muſes Looking Glaſs. 1643</item>
+                  <item>208 <hi>Dugdale</hi> (Sir <hi>Will.</hi>) Ancient uſage of Armes, with a Catalogue of Nobility. 1682</item>
+                  <item>209 Female Prince, or <hi>Frederick</hi> of <hi>Sicily,</hi> a Novel. 1682</item>
+                  <item>210 Humane Prudence, or the art to riſe to Fortune and Grandeur. 1682</item>
+                  <item>211 Fifteen comforts of raſh and inconſiderate Marriage. 1682</item>
+                  <item>212 Bloody reign of <hi>Charles</hi> the Ninth of <hi>France,</hi> with the Maſſacre of many thouſand Pro<g ref="char:EOLhyphen"/>teſtants. 1655</item>
+                  <item>213 The lovely <hi>Polyander,</hi> a Novel of gallantry.</item>
+                  <item>214 Engliſh Bible. 1654</item>
+                  <item>215 <hi>Vincent (Tho.)</hi> True Chriſtian love to the unſeen Chriſt. 1677</item>
+                  <item>216 Hiſtory of the Court of the King of <hi>China.</hi> 1682</item>
+                  <item>217 <hi>Herbert (Geo.)</hi> Divine Poems. 1667</item>
+                  <item>218 Legend of St. <hi>Cuthbert,</hi> with the Antiquities of the Church of <hi>Durham.</hi> 1663</item>
+                  <item>219 Hiſtory of the bloody Reign of Q. <hi>Mary,</hi> and an account of Martyrs that ſuffered in her Reign, with figures. 1682.</item>
+                  <item>220 <hi>Cotton (Ch.)</hi> Moral Philoſophy of the Stoicks. 1664</item>
+                  <item>221 The Vermin-Killer, or rules for killing Rats, Mice, Moles, Buggs, <hi>&amp;c.</hi> 1680</item>
+                  <item>222 <hi>Chamberlain (Ed.)</hi> Preſent ſtate of <hi>England.</hi> 1673</item>
+                  <item>223 The Novels of <hi>G. Franceſco Loredano</hi> Nobleman of <hi>Venice.</hi> 1682</item>
+                  <item>224 The way to Promotion, or young mans guide to Preferment. 1682</item>
+                  <item>225 An account of Battles, Sieges, and many other remarkable occurrences in <hi>England, Scotland</hi> and <hi>Ireland,</hi> with Figures. 1682</item>
+                  <item>226 <hi>De Laun (Tho.)</hi> Preſent ſtate of <hi>London,</hi> with Memorials of the ancient ſtate thereof, with Figures. 1681</item>
+                  <item>227 New Voyage to the <hi>Eaſt-Indies,</hi> with an account of <hi>Bantam.</hi> 1682</item>
+                  <item>228 The Fair extravagant, or the humorous Bride, a Novel. 1682</item>
+                  <item>
+                     <pb n="17" facs="tcp:171464:11"/>229 Life of <hi>Francis Lorrain</hi> Duke of <hi>Guiſe.</hi> 1681</item>
+                  <item>230 Wars of <hi>England, Scotland</hi> and <hi>Ireland.</hi> 1683</item>
+                  <item>231 Arbitrary Government diſplayed to the life in <hi>O. Cromwel,</hi> and the Rump Parliam. 1682</item>
+                  <item>232 Five Love-Letters by a Cavalier, in anſwer to the Nuns five Love Letters. 1682</item>
+                  <item>233 <hi>Abbot</hi> (Biſh. <hi>Geo.</hi>) Deſcription of the whole World. 1635</item>
+                  <item>234 <hi>Culpeper (N.)</hi> School of Phyſick, or experimental Practice of the whole Art. 1678</item>
+                  <item>235 Expert Artillery-man, containing poſtures of the Pike and Muſquet, <hi>&amp;c.</hi> 1681</item>
+                  <item>236 Life and Death of Sir <hi>Matthew Hales.</hi> by Dr. <hi>Gil. Burnet.</hi> 1682</item>
+                  <item>237 <hi>Leybourn (W.)</hi> Carpenters Rule, with Logarithmical Tables of Proportion. 1669</item>
+                  <item>238 Hell opened, or a relation of the Poyſoning a whole family in <hi>Plymouth.</hi> 1676</item>
+                  <item>239 Innocent Lady, an excellent true Hiſtory of Modern times. 1674</item>
+                  <item>240 True Relation of ſeveral Paſſages wherein the Scots were concerned in the late unhappy Troubles. 1641</item>
+                  <item>241 <hi>Wynel (J.) Lues Venerea,</hi> with its Names, Nature, Cure, <hi>&amp;c.</hi> 1670</item>
+                  <item>242 Adventures of <hi>Lewis Marot,</hi> attended with ſtrange occurrences. 1677</item>
+                  <item>243 Exact relation of that unfortunate expedition of <hi>Kent, Eſſex</hi> and <hi>Colcheſter.</hi> 1650</item>
+                  <item>244 <hi>Holborn</hi> Drollery, containing Love-Song, Poems, <hi>&amp;c.</hi> 1673</item>
+                  <item>245 <hi>Des Cartes (M.)</hi> Diſcourſe of local motion. 1670</item>
+                  <item>246 Laws of the Fraternity of the Roſie Croſs. 1656</item>
+                  <item>247 The Plot in a Dream, being a diſcourſe on the late deſign of the Papiſts againſt his Ma<g ref="char:EOLhyphen"/>jeſty, with Figures. 1681</item>
+                  <item>248 The Pilgrim, a pleaſant piece of gallantry, in 2 vol. 1680</item>
+                  <item>249 <hi>Saunders (R.)</hi> Palmeſtry diſcloſed. 1676</item>
+                  <item>250 A School for Princes, or Political reflections on three conſpiracies preceeding the death of <hi>Alexander.</hi> 1680</item>
+                  <item>251 The extravagant Poet, a comical Novel. 1681</item>
+                  <item>252 The Jealous Gentleman, a Novel. 1681</item>
+                  <item>253 Life of <hi>Francis</hi> of <hi>Lorrain</hi> Duke of <hi>Guiſe.</hi> 1681</item>
+                  <item>254 Deſcription of the Iſlands and Inhabitants of <hi>Foeroe,</hi> with a Map. 1676</item>
+                  <item>255 Treatiſe of the loftineſs or elegancy of Speech. 1680</item>
+                  <item>256 Extravagant myſteries of the Cabaliſts expoſed. 1680</item>
+                  <item>257 The ſecret Hiſtory of Q. <hi>Elizabeth</hi> and the Earl of <hi>Eſſex.</hi> 1680</item>
+                  <item>258 Compleat Miner, with the Laws and Cuſtomes of the Mines. 1681</item>
+                  <item>259 Hiſtorians Guide, being an account of all remarkable paſſages from 1600, to 1679. 1679</item>
+                  <item>260 <hi>Clark (S.) Aurea Legenda,</hi> or Apothegms, Sentences and Sayings of many wiſe and Learned men 1681</item>
+                  <item>261 Life of <hi>Mary Carleton,</hi> vulgarly called the German Princeſs. 1679</item>
+                  <item>262 Coffee-Houſe Jeſts, refined and enlarged. 1682</item>
+                  <item>263 <hi>Clark. (S.)</hi> Narrative of the Spaniſh Invaſion and Gunpowder-Treaſon. 1679</item>
+                  <item>264 The Fair Extravagant, or humorous Bride, a Novel. 1682</item>
+                  <item>265 Princeſs of <hi>Montferrat,</hi> a Novel. 1680</item>
+                  <item>266 Education of young Gentlemen. <hi>Oxford.</hi> 1677</item>
+                  <item>267 Rules of Health in eight Sections of Aphoriſms. 1676</item>
+                  <item>268 <hi>Heylyn (P.)</hi> Help to Hiſtory, containing the ſucceſſions of the Kings of <hi>England, Wales,</hi> and the Iſle of <hi>Wight.</hi> 1680</item>
+                  <item>269 Myſtery of Vintners, containing directions for curing all ſorts of Wines. 1681</item>
+                  <item>270 <hi>Meroveus</hi> a Prince of the blood Royal of <hi>France,</hi> a Novel. 1682</item>
+                  <item>271 <hi>Sleydan</hi>'s Key of Hiſt. or a methodical abridgment of <hi>Babylon, Perſia, Greece</hi> &amp; <hi>Rome.</hi> 1661</item>
+                  <item>272 Hiſtory of <hi>Lazarello de Tormes,</hi> the witty Spaniard. 1677</item>
+                  <item>273 Viceroy of <hi>Cattalonia,</hi> or the double Cuckold, a Novel. 1678</item>
+                  <item>274 <hi>Newton (J.)</hi> Introduction to the art of Rhetorick. 1678</item>
+                  <item>275 <hi>Artimedorus</hi>'s Interpretation of Dreams. 1679</item>
+                  <item>276 <hi>Homais</hi> Queen of <hi>Tunis,</hi> a Novel. 1681</item>
+                  <item>
+                     <pb n="18" facs="tcp:171464:12"/>277 Town-Adventurer, or a diſcourſe of Maſquerades and Plays. 1675</item>
+                  <item>278 <hi>Hodder (Ja.)</hi> Arithmetick. 1681</item>
+                  <item>279 <hi>Forſter (Will.)</hi> Arithmetick. 1673</item>
+                  <item>280 Civil Wars of <hi>France</hi> under the bloody Reign of <hi>Charles</hi> the 9th. 1655</item>
+                  <item>281 <hi>Cook (James)</hi> Select obſervations on Engliſh bodies. 1657</item>
+                  <item>282 Collections of ſome principal matters in K. <hi>James</hi>'s Reign, to ſupply the vacancy be<g ref="char:EOLhyphen"/>tween Mr. <hi>Townſend</hi> and Mr. <hi>Ruſhworth</hi>'s Collections. 1681</item>
+                  <item>283 <hi>Harvy (G.)</hi> Family Phyſician and Houſe Apothecary. 1678</item>
+                  <item>284 Method of curing Feavers and Agues by Jeſuits Powder. 1681</item>
+                  <item>285 The Paſtime Royal, or the gallantries of the French Court. 1682</item>
+                  <item>286 <hi>Gilbert (S.)</hi> of Raiſing, Planting, and Increaſing Flowers and Plants. 1682</item>
+                  <item>287 Courtiers Calling, or the ways of making a Fortune according to the maxims of Policy and Morality. 1675</item>
+                  <item>288 A Book of the valuations of Eccleſiaſtical Preferments in <hi>England</hi> and <hi>Wales.</hi> 1680</item>
+                  <item>289 Canting Academy, ſhewing the villainous practices of that wicked crew called Hectors Trapanners, Gilts, <hi>&amp;c.</hi> 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>290 Gallant Memoirs, or the Adventures of a Perſon of Quality. 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>291 Humane prudence, or the art by which a man may raiſe himſelf &amp; Fort. to Grandeur. 1681</item>
+                  <item>292 <hi>Drayton (Neh.)</hi> his Poems. 1637</item>
+                  <item>293 <hi>Baxter (R.)</hi> Holy Common-wealth, or political Aphoriſms of Government 1659</item>
+                  <item>294 <hi>Milton (J.)</hi> Poems on ſeveral occaſions. 1673</item>
+                  <item>295 —Hiſtory of <hi>England.</hi> 1677</item>
+                  <item>296 <hi>Miege (Guy)</hi> New Coſmography, or ſurvey of the World. 1682</item>
+                  <item>297 Comprehenſive Hiſtory of the Lives and Reigns of all the Monarchs of <hi>England.</hi> 1681</item>
+                  <item>298 Europe a ſlave, diſcovering the grand deſigns of the French Popiſh party in <hi>Engl.</hi> 1681</item>
+                  <item>299 Lovely <hi>Polander,</hi> a Novel.</item>
+                  <item>300 Wits Academy, being the neweſt Academy of Complements. 1681</item>
+                  <item>301 Refined Courtier, or a correction of ſeveral indecencies crept into civil converſation. 1679</item>
+                  <item>302 Kitch'n Phyſician, or a guide to good H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſwives. 1682</item>
+                  <item>303 <hi>Patridge (J.) Vade mecum</hi> to Aſtrology of Nativities, <hi>&amp;c.</hi> 1679</item>
+                  <item>304 Hiſtory of the <hi>Scarborough</hi> Spaw, with its Vertue in curing the Scurvy, Stone, <hi>&amp;c.</hi>
+                  </item>
+                  <item>305 <hi>Graunt (J.)</hi> Natural and Political obſervations on the Bills of Mortality. 1676</item>
+                  <item>306 <hi>Godfrey (Rob.)</hi> Detection of abuſes in Chymical and Galenical Phyſick 1674</item>
+                  <item>307 Obſervations and Advices Oeconomical by the Lord <hi>North.</hi> 1669</item>
+                  <item>308 Caſe of the Government of <hi>England</hi> eſtabliſhed by Law, by <hi>W. D.</hi> 1681</item>
+                  <item>309 <hi>Oxford</hi> Drollery, being new Poems and Songs. 1679</item>
+                  <item>310 <hi>Harvey (G)</hi> Caſe of the L. <hi>Moon,</hi> with the art of curing the moſt dangerous wounds. 1678</item>
+                  <item>311 Natural and artificial Concluſions. 1670</item>
+                  <item>312 <hi>Eugenius Philalethes</hi>'s Natural Hiſtory, with Philoſophical Diſcourſes. 1669</item>
+                  <item>313 <hi>Newton (J.)</hi> Scale of Intereſt, or uſe of Decimal Fractions. 1668</item>
+                  <item>314 —Art of Practical Gauging. 1669</item>
+                  <item>315 <hi>Latham</hi>'s Spaw in <hi>Lancaſhire,</hi> with remarkable Cures effected by it. 1670</item>
+                  <item>316 Diſcourſe of local motion, demonſtrating the Laws of motion. 1670</item>
+                  <item>317 Life and Reign of K. <hi>Richard</hi> the Second.</item>
+                  <item>318 <hi>Lovel (Rob.)</hi> Hiſtory of Animals and Minerals. 1661</item>
+                  <item>319 French Grammar, teaching that Tongue without any other precedent ſtudy than to have learnt to read only. 1671</item>
+                  <item>320 <hi>Teſteau</hi>'s Grammar for French men to learn Engliſh by. 1675</item>
+                  <item>321 Judge <hi>Hales</hi>'s Obſervations touching the Torricellian Experiment. 1675</item>
+                  <item>322 Hiſtory of <hi>Fortunatus,</hi> whereby a young man may learn how to behave himſelf in all worldly affairs. 1671</item>
+                  <item>323 Judge <hi>Hales</hi> his Obſervations touching the principles of Natural Motion. 1677</item>
+                  <item>324 <hi>Gailhard (J.)</hi> 2 Diſcourſes of ſettlement after Travel, and of Publick Employments. 1682</item>
+                  <item>
+                     <pb n="19" facs="tcp:171464:12"/>325 <hi>Mauger (C.)</hi> his <hi>French</hi> Grammar, the Tenth Edit. 1682</item>
+                  <item>326 <hi>Agrippa (C.)</hi> his Vanity of Arts and Sciences. 1676</item>
+                  <item>327 <hi>Antoninus</hi> the <hi>Roman</hi> Emperour his Meditation of himſelf, and the natural mans means to attain to Happineſs. 1673</item>
+                  <item>328 A New <hi>French</hi> Grammar, containing moſt exact Rules for learning that Tongue, with Critical Obſervations. <hi>Oxford</hi> 1676</item>
+                  <item>329 <hi>Charras (M.)</hi> Experiments on Vipers, with the exquiſite Remedies drawn from them. 1673</item>
+                  <item>330 <hi>Barbette (P.)</hi> his Practice of Phyſick. 1675</item>
+                  <item>331 <hi>Engliſh</hi> School-maſter, or the moſt eaſie Method of ſpelling <hi>Engliſh.</hi> 1674</item>
+                  <item>332 Compleat Angler, with a Diſcourſe of Rivers, Fiſh-ponds, <hi>&amp;c.</hi> 1668</item>
+                  <item>333 <hi>Cicero</hi>'s Invective Orations againſt <hi>Cataline.</hi> 1671</item>
+                  <item>334 The Analytical Grammarian, teaching to know, vary &amp; diſpoſe the parts of Speech. 1670</item>
+                  <item>335 <hi>Brinſley</hi>'s Grammatical Tranſlation of <hi>Corderius.</hi> 1653</item>
+                  <item>336 Life of <hi>Caleb Vernon.</hi> 1666</item>
+                  <item>337 Book of Knowledge, ſhewing the effects of the Planets on Men and Women. 1671</item>
+                  <item>338 Remembrancer of excellent men, <hi>(viz.)</hi> Biſhop <hi>Bramhall,</hi> Biſhop <hi>Taylor,</hi> Biſhop <hi>Duppa,</hi> Mr. <hi>Hooker, &amp;c.</hi> 1670</item>
+                  <item>339 <hi>Wynell (J.) Lues Venerea,</hi> or Names, Nature and Signs of the Pox. 1670</item>
+                  <item>340 <hi>
+                        <g ref="char:V">Ʋ</g>dall (J.)</hi> his Key to the Holy Tongue, corrected by a <hi>Jew Rabine.</hi> 1645</item>
+                  <item>341 <hi>Veſtegan (R.)</hi> his Antiquities of the <hi>Engliſh</hi> Nation, with Figures. 1673</item>
+                  <item>342 <hi>Vinetum Britannicum,</hi> or a Treatiſe of Cider, and other Wines, extracted from Fruits growing in <hi>England,</hi> with Figures. 1676</item>
+                  <item>343 <hi>Torriano (G.)</hi> his Introduction to the <hi>Italian</hi> Tongue. 1673</item>
+                  <item>344 Semi-circle of a Sector in Two Books, with Figures. 1667</item>
+                  <item>345 Conſiderations on Marriage, with its Nature, Ends, Events, and concomitant Accid. 1675</item>
+                  <item>346 <hi>Simpſon (W:)</hi> his Chymical Anat. of the <hi>Scarborough</hi> Spaw and other Spaws in <hi>Yorkſh.</hi> 1669</item>
+                  <item>347 <hi>Sharrock (R.)</hi> his Hiſtory of the propagation of Vegetables by Art and Nature. 1672</item>
+                  <item>348 Secretary in faſhion, or an Elegant and Compend. way of Writing Letters. 1677</item>
+                  <item>349 Life and Tryal of Sir <hi>Walter Raleigh.</hi> 1677</item>
+                  <item>350 <hi>Webb</hi>'s Antiquities of <hi>China.</hi> 1678</item>
+                  <item>351 <hi>Maronides,</hi> or <hi>Virgil Traveſty.</hi> 1678</item>
+                  <item>352 <hi>England</hi>'s Intereſt and improvement. 1673</item>
+                  <item>353 <hi>Gregory</hi> Father Grey-beard, with his Vizard off. 1673</item>
+                  <item>354 The ſage Senator delineated; the perfect Politicians qualifications. 1660</item>
+                  <item>355 <hi>Leigh</hi>'s Deſcription of <hi>England.</hi> 1659</item>
+                  <item>356 <hi>Dauncies</hi> Chronicle of <hi>Portugal.</hi> 1661</item>
+                  <item>357 <hi>Cleveland</hi>'s Poems. 1677</item>
+                  <item>358 <hi>Lock</hi>'s preſent practice of Muſick. 1673</item>
+                  <item>359 <hi>Taſſo</hi>'s <hi>Amynta</hi> in <hi>Engliſh,</hi> a famous Paſtoral 1660</item>
+                  <item>360 Marſhal Philoſophy delineated, of the Originals of Springs, and their ebbings and flow<g ref="char:EOLhyphen"/>ings, of Chymical multiplications, <hi>&amp;c.</hi> 1678</item>
+                  <item>361 The Hiſtory of <hi>Hungary</hi> and <hi>Tranſylvania.</hi> 1664</item>
+                  <item>362 <hi>Parker</hi>'s reproof to <hi>Marvell</hi>'s rehearſal tranſproſed. 1673</item>
+                  <item>363 New ſurvey of the <hi>Turkiſh</hi> Empire, Hiſtory and Government. 1664</item>
+                  <item>364 <hi>Loveday</hi>'s Letters. 1673</item>
+                  <item>365 <hi>Harvey</hi>'s three Treatiſes of Conſumptions, Pox and Plague. 1673</item>
+                  <item>366 Sir <hi>Jonas Moor</hi>'s Fortifications, or Elements of Military Architecture. 1673</item>
+                  <item>367 <hi>Quarles</hi>'s Fountain of Tears. 1677</item>
+                  <item>368 Sir <hi>Aſton Cockayn</hi>'s Poems. 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8</item>
+                  <item>369 <hi>Barne</hi>'s Diſcourſe of Pigmies. 1675</item>
+                  <item>370 <hi>Bunworth</hi>'s new Diſcovery of the <hi>French</hi> Diſeaſe. 1662</item>
+                  <item>371 Relation of the <hi>Dutch</hi> Cruelties againſt the <hi>Engliſh</hi> in <hi>Amboyna.</hi> 1672</item>
+                  <item>372 The Memoires of <hi>Mary Carleton,</hi> the <hi>German</hi> Princeſs. 1673</item>
+                  <item>
+                     <pb n="20" facs="tcp:171464:13"/>373 <hi>Seneca</hi>'s Troades Engliſhed. 1660</item>
+                  <item>374 The School of Wiſdom. 1664</item>
+                  <item>375 <hi>Wallographia,</hi> a Pleaſant relation of a Journey into <hi>Wales.</hi> 1682</item>
+                  <item>376 Modern Policy Compleated. 1660</item>
+                  <item>377 The Biſhop of <hi>Munſters</hi> Life. 1630</item>
+                  <item>378 Weights and Meaſures, with a table of ſeveral Goods. 1677</item>
+                  <item>379 <hi>Praxis Catholica,</hi> or the Country mans Univerſal remedy. 1680</item>
+                  <item>380 The Engliſh Military Diſcipline, for Horſe and Foot. 1680</item>
+                  <item>381 The Woman as good as the Man. 1677</item>
+                  <item>382 <hi>Clark</hi>'s Natural Hiſtory of <hi>Nitre.</hi> 1670</item>
+                  <item>383 <hi>Scarbrough</hi>'s Spagyrical Anatom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zer diſſected. 1672</item>
+                  <item>384 The Capucin treated, or the Lives of the Capucins with the life of S. <hi>Fr.</hi> their Patron. 1665</item>
+                  <item>385 <hi>Digg</hi>'s Unlawfulneſs of Subjects taking up Arms.</item>
+                  <item>386 Monuments of the Monaſtical and Cathedral Church of <hi>Durham.</hi>
+                  </item>
+                  <item>387 Earl of <hi>Carlile</hi>'s Embaſſies to <hi>Muſcovy, Sweden, Denmark.</hi> 1676</item>
+                  <item>388 <hi>Carew's</hi> Poems.</item>
+                  <item>389 Citizens Companion.</item>
+               </list>
+            </div>
+            <div type="book_type">
+               <head>Engliſh Hiſtory in <hi>Duodecimo.</hi>
+               </head>
+               <list>
+                  <item>390 <hi>BArclay</hi>'s Mirror of Minds. 1631</item>
+                  <item>391 The Honeſt Man, or art to pleaſe at Court. 1632</item>
+                  <item>392 <hi>Ignatius</hi>'s Conclave or Inthroniſation in Hell. 1626</item>
+                  <item>393 <hi>Grotius (H.)</hi> Politick Maxims and Obſervations. 1655</item>
+                  <item>394 <hi>Fletcher (G.)</hi> Hiſtory of <hi>Ruſſia.</hi> 1657</item>
+                  <item>395 Apology for a Treatiſe of Humane Reaſon, againſt Plain Dealing. 1680</item>
+                  <item>396 <hi>Clafford (P.)</hi> Plain and eaſie Introduction to Geography. 1682</item>
+                  <item>397 Modern Policies taken from <hi>Machiavel, Borgia,</hi> &amp;c. 1654</item>
+                  <item>398 The <hi>Epheſian Matron.</hi> 1659</item>
+                  <item>399 <hi>Du Moulin (Peter)</hi> Soliloquies and Prayer, with a preparation to the Sacrament. 1677</item>
+                  <item>400 Neceſſary Caſes of Conſcience, about things indifferent in Religion. 1662</item>
+                  <item>401 Book of Common Prayer, with Singing Pſalms. 1677</item>
+                  <item>402 Engliſh Bible. 1658</item>
+                  <item>403 <hi>Raleigh</hi> (Sir <hi>Walter</hi>) His Remains <hi>(viz.)</hi> Maxims of State. <hi>&amp;c.</hi> 1671</item>
+                  <item>404 <hi>Quarles (Fra.)</hi> His Enchiridion, or Inſtructions Divine and Moral. 1681</item>
+                  <item>405 <hi>Clifford (P.)</hi> Introduction to Geography. 1682</item>
+                  <item>406 Amours of Madam and Count <hi>de Guiſe.</hi> 1680</item>
+                  <item>407 <hi>Culpeper (N.)</hi> His Engliſh Phiſician. 1652</item>
+                  <item>408 Great Prerogative of a private Life. 1678</item>
+                  <item>409 Tutor to Aſtrology and Aſtronomy made eaſie. 1670</item>
+                  <item>410 <hi>Phillips (H.)</hi> Puchaſers Pattern, ſhewing the Value of Lands and Houſes. 1670</item>
+                  <item>411 <hi>Brian (Tho.)</hi> Piſs-Prophet, or the Fallacy of Quacks pretending to know Diſeaſes by Urine. 1679</item>
+                  <item>412 Apprentices Companion, with Direct. how to perform their duty to their Maſt. 1681</item>
+                  <item>413 Life of <hi>Mar Ajon</hi> Queen of <hi>Majorca,</hi> a Novel. 1681</item>
+                  <item>414 Amour of Madamoiſelle <hi>de Valliere,</hi> a Novel. 1680</item>
+                  <item>415 Rich Treaſure, or a ready Way to Content. 1678</item>
+                  <item>416 <hi>Harvy (G.)</hi> Little <hi>Venus</hi> or a Diſcovery of the French Pox. 1676</item>
+                  <item>417 Sir <hi>Jonas Moors</hi> Mathematical Compendium. 1681</item>
+                  <item>418 The Noble Ingratitude, by Sir <hi>William Lower.</hi> 1659</item>
+                  <item>419 <hi>Whitaker</hi> of the ſmall Pox. 1661</item>
+                  <item>420 <hi>Winſtanley</hi>'s Good Companion. 1663</item>
+                  <item>421 A Collection of Scotch Proverbs, and Proverbial Phraſes. 1668</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:171464:13"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
